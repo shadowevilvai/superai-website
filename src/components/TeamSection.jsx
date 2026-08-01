@@ -28,7 +28,7 @@ const teamData = {
       { name: "Sarthak Katariya", role: "Creative WC", linkedin: "https://www.linkedin.com/in/sarthak-katariya-0a8910363?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
       { name: "Riya Giri", role: "Social WC", linkedin: "https://www.linkedin.com/in/riya-giri-39b8793bb?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
       { name: "Kshitij Singh", role: "Social WC", linkedin: "https://www.linkedin.com/in/kshitij-singh-303025322?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
-      { name: "Samarth Singh", role: "Social WC", linkedin: "https://www.linkedin.com/in/samarth-singh-38b554321?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" }
+      { name: "Samarth Singh", role: "Social WC", linkedin: "https://www.linkedin.com/in/samarth-singh-38b554321?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/samarth.jpg" }
     ],
     adminDoc: [
       { name: "Aarushi Shah", role: "Joint Secretary", linkedin: "https://www.linkedin.com/in/aarushi-shah-engg29?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
