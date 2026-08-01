@@ -45,7 +45,7 @@ const teamData = [
       { name: "Guruprasad Dubey", role: "Technical Associate", linkedin: "#", github: "#" }
     ],
     committee: [
-      { name: "Saurabh Jaiswal", role: "Committee", linkedin: "#", github: "#" },
+      { name: "Saurabh Jaiswal", role: "Committee", linkedin: "https://www.linkedin.com/in/saurabh-jaiswal-87b218387?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
       { name: "Sayam Kala", role: "Committee", linkedin: "https://www.linkedin.com/in/sayam-kala-jain?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ]
   },
