@@ -19,7 +19,7 @@ const teamData = {
   juniorCore: {
     tech: [
       { name: "Guruprasad Dubey", role: "Tech Associate", linkedin: "https://www.linkedin.com/in/guruprasad-dubey-b14b66382?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/guruprasad dubey.jpeg" },
-      { name: "Saurabh Jaiswal", role: "Tech WC", linkedin: "https://www.linkedin.com/in/saurabh-jaiswal-87b218387?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/saurabh.jpeg", position: "object-center" },
+      { name: "Saurabh Jaiswal", role: "Tech WC", linkedin: "https://www.linkedin.com/in/saurabh-jaiswal-87b218387?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/saurabh.jpeg", position: "object-[50%_35%]" },
       { name: "Sayam Kala", role: "Tech WC", linkedin: "https://www.linkedin.com/in/sayam-kala-jain?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/sayam kala.jpeg" }
     ],
     creativeSocial: [
