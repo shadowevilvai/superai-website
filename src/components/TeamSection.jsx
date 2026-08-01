@@ -22,7 +22,7 @@ const teamData = [
     hasCommittee: false,
     heads: [
       { name: "Sanchita Warkad", role: "President", linkedin: "https://www.linkedin.com/in/sanchita-warkad-59a872329?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
-      { name: "Mitesh Purohit", role: "Vice President", linkedin: "#", github: "#" }
+      { name: "Mitesh Purohit", role: "Vice President", linkedin: "https://www.linkedin.com/in/miteshkumar-purohit-4ba0ab328", github: "#" }
     ],
     committee: []
   },
@@ -42,7 +42,7 @@ const teamData = [
     hasCommittee: true,
     heads: [
       { name: "Nikita Mishra", role: "Tech Head", linkedin: "https://www.linkedin.com/in/nikita1310", github: "#" },
-      { name: "Guruprasad Dubey", role: "Technical Associate", linkedin: "#", github: "#" }
+      { name: "Guruprasad Dubey", role: "Technical Associate", linkedin: "https://www.linkedin.com/in/guruprasad-dubey-b14b66382?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ],
     committee: [
       { name: "Saurabh Jaiswal", role: "Committee", linkedin: "https://www.linkedin.com/in/saurabh-jaiswal-87b218387?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
@@ -55,7 +55,7 @@ const teamData = [
     hasCommittee: true,
     heads: [
       { name: "Nimeet", role: "Creative Head", linkedin: "https://www.linkedin.com/in/nimeet-chouhan-5791a2337?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
-      { name: "Nilu Yadav", role: "Creative Associate", linkedin: "#", github: "#" }
+      { name: "Nilu Yadav", role: "Creative Associate", linkedin: "https://www.linkedin.com/in/nilu-yadav-3939bb262?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ],
     committee: [
       { name: "Vibha Varma", role: "Committee", linkedin: "https://www.linkedin.com/in/vibha-varma-82641041a?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
@@ -79,7 +79,7 @@ const teamData = [
     committee: [
       { name: "Riya Giri", role: "Committee", linkedin: "https://www.linkedin.com/in/riya-giri-39b8793bb?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
       { name: "Kshitij Singh", role: "Committee", linkedin: "https://www.linkedin.com/in/kshitij-singh-303025322?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
-      { name: "Samarth Singh", role: "Committee", linkedin: "#", github: "#" }
+      { name: "Samarth Singh", role: "Committee", linkedin: "https://www.linkedin.com/in/samarth-singh-38b554321?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ]
   }
 ];
