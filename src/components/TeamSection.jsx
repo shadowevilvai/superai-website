@@ -64,7 +64,7 @@ const HexMemberCard = ({ member, size = "md", isCircle = false, color = "cyber-b
         <div className={`absolute inset-[2px] bg-[#0a0a0f] overflow-hidden ${shapeClass}`}>
           {/* Image Placeholder */}
           {member.image ? (
-            <img src={member.image} alt={member.name} className="w-full h-full object-cover" />
+            <img src={member.image} alt={member.name} className="w-full h-full object-cover object-top" />
           ) : (
             <div className="w-full h-full bg-gradient-to-br from-gray-800 to-black opacity-80 group-hover:opacity-100 transition-opacity"></div>
           )}
