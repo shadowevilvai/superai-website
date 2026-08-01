@@ -21,7 +21,7 @@ const teamData = [
     domain: "Executive",
     hasCommittee: false,
     heads: [
-      { name: "Sanchita Warkad", role: "President", linkedin: "#", github: "#" },
+      { name: "Sanchita Warkad", role: "President", linkedin: "https://www.linkedin.com/in/sanchita-warkad-59a872329?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
       { name: "Mitesh Purohit", role: "Vice President", linkedin: "#", github: "#" }
     ],
     committee: []
@@ -31,8 +31,8 @@ const teamData = [
     domain: "Operations",
     hasCommittee: false,
     heads: [
-      { name: "Abhishek Vishwakarma", role: "Secretary", linkedin: "#", github: "#" },
-      { name: "Aarushi Shah", role: "Joint Secretary", linkedin: "#", github: "#" }
+      { name: "Abhishek Vishwakarma", role: "Secretary", linkedin: "https://www.linkedin.com/in/atabhishekx?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
+      { name: "Aarushi Shah", role: "Joint Secretary", linkedin: "https://www.linkedin.com/in/aarushi-shah-engg29?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ],
     committee: []
   },
@@ -41,12 +41,12 @@ const teamData = [
     domain: "Technical",
     hasCommittee: true,
     heads: [
-      { name: "Nikita Mishra", role: "Tech Head", linkedin: "#", github: "#" },
+      { name: "Nikita Mishra", role: "Tech Head", linkedin: "https://www.linkedin.com/in/nikita1310", github: "#" },
       { name: "Guruprasad Dubey", role: "Technical Associate", linkedin: "#", github: "#" }
     ],
     committee: [
       { name: "Saurabh Jaiswal", role: "Committee", linkedin: "#", github: "#" },
-      { name: "Sayam Kala", role: "Committee", linkedin: "#", github: "#" }
+      { name: "Sayam Kala", role: "Committee", linkedin: "https://www.linkedin.com/in/sayam-kala-jain?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ]
   },
   {
@@ -54,12 +54,12 @@ const teamData = [
     domain: "Creative",
     hasCommittee: true,
     heads: [
-      { name: "Nimeet", role: "Creative Head", linkedin: "#", github: "#" },
+      { name: "Nimeet", role: "Creative Head", linkedin: "https://www.linkedin.com/in/nimeet-chouhan-5791a2337?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
       { name: "Nilu Yadav", role: "Creative Associate", linkedin: "#", github: "#" }
     ],
     committee: [
-      { name: "Vibha Varma", role: "Committee", linkedin: "#", github: "#" },
-      { name: "Sarthak Katariya", role: "Committee", linkedin: "#", github: "#" }
+      { name: "Vibha Varma", role: "Committee", linkedin: "https://www.linkedin.com/in/vibha-varma-82641041a?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
+      { name: "Sarthak Katariya", role: "Committee", linkedin: "https://www.linkedin.com/in/sarthak-katariya-0a8910363?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ]
   },
   {
@@ -77,8 +77,8 @@ const teamData = [
     hasCommittee: true,
     heads: [],
     committee: [
-      { name: "Riya Giri", role: "Committee", linkedin: "#", github: "#" },
-      { name: "Kshitij Singh", role: "Committee", linkedin: "#", github: "#" },
+      { name: "Riya Giri", role: "Committee", linkedin: "https://www.linkedin.com/in/riya-giri-39b8793bb?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
+      { name: "Kshitij Singh", role: "Committee", linkedin: "https://www.linkedin.com/in/kshitij-singh-303025322?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
       { name: "Samarth Singh", role: "Committee", linkedin: "#", github: "#" }
     ]
   }
