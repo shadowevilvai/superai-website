@@ -1,0 +1,123 @@
+/* preloader.css */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&display=swap');
+
+.preloader-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 50;
+  /* When doors open, this bright background will simulate a blinding laser light shining through the crack */
+  background-color: #000;
+  overflow: hidden;
+  font-family: 'Orbitron', sans-serif;
+}
+
+/* Jigsaw path - Left Door */
+.door-left {
+  clip-path: polygon(0 0, 50vw 0, 50vw 25vh, 55vw 25vh, 55vw 40vh, 50vw 40vh, 50vw 60vh, 45vw 60vh, 45vw 75vh, 50vw 75vh, 50vw 100vh, 0 100vh);
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* Jigsaw path - Right Door */
+.door-right {
+  clip-path: polygon(100vw 0, 50vw 0, 50vw 25vh, 55vw 25vh, 55vw 40vh, 50vw 40vh, 50vw 60vh, 45vw 60vh, 45vw 75vh, 50vw 75vh, 50vw 100vh, 100vw 100vh);
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* Base metallic texture for the entire door */
+.door-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  /* Dark gunmetal blue */
+  background: #0b111a;
+  background-image: radial-gradient(circle at 50% 50%, #151f2e 0%, #070b12 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* The thick outer beveled frame */
+.door-frame {
+  position: absolute;
+  inset: 20px;
+  border-radius: 40px;
+  background: linear-gradient(145deg, #162233 0%, #080c14 100%);
+  border: 2px solid rgba(0, 240, 255, 0.1);
+  box-shadow: 
+    inset 2px 2px 5px rgba(255, 255, 255, 0.05),
+    inset -5px -5px 15px rgba(0, 0, 0, 0.8),
+    0 0 20px rgba(0, 0, 0, 0.9);
+}
+
+/* The recessed inner panel */
+.inner-panel {
+  position: absolute;
+  inset: 20px;
+  border-radius: 24px;
+  background: #030508;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  box-shadow: 
+    inset 0 10px 30px rgba(0, 0, 0, 0.9),
+    inset 0 0 50px rgba(0, 0, 0, 1);
+  overflow: hidden;
+}
+
+/* Perforated mesh texture for the inner panel */
+.mesh-texture {
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(0, 240, 255, 0.2) 1px, transparent 1px);
+  background-size: 8px 8px;
+  opacity: 0.3;
+}
+
+/* Cyber text styling */
+.preloader-title {
+  font-size: 6rem;
+  font-weight: 900;
+  /* Metallic/glass text effect */
+  background: linear-gradient(180deg, #ffffff 0%, #00f0ff 50%, #005f73 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 15px rgba(0, 240, 255, 0.8));
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+  .preloader-title {
+    font-size: 8rem;
+  }
+}
+
+/* Central glowing flare when unlocking */
+.center-flare {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10px;
+  height: 120vh;
+  background: #00f0ff;
+  box-shadow: 0 0 50px 20px #00f0ff, 0 0 100px 50px #00f0ff, 0 0 200px 100px #ffffff;
+  z-index: 5;
+  opacity: 0;
+  pointer-events: none;
+}
