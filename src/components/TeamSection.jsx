@@ -18,20 +18,20 @@ const teamData = {
   ],
   juniorCore: {
     tech: [
-      { name: "Guruprasad Dubey", role: "Tech Associate", linkedin: "https://www.linkedin.com/in/guruprasad-dubey-b14b66382?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
+      { name: "Guruprasad Dubey", role: "Tech Associate", linkedin: "https://www.linkedin.com/in/guruprasad-dubey-b14b66382?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/guruprasad dubey.jpeg" },
       { name: "Saurabh Jaiswal", role: "Tech WC", linkedin: "https://www.linkedin.com/in/saurabh-jaiswal-87b218387?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
-      { name: "Sayam Kala", role: "Tech WC", linkedin: "https://www.linkedin.com/in/sayam-kala-jain?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" }
+      { name: "Sayam Kala", role: "Tech WC", linkedin: "https://www.linkedin.com/in/sayam-kala-jain?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/sayam kala.jpeg" }
     ],
     creativeSocial: [
-      { name: "Nilu Yadav", role: "Creative Associate", linkedin: "https://www.linkedin.com/in/nilu-yadav-3939bb262?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
+      { name: "Nilu Yadav", role: "Creative Associate", linkedin: "https://www.linkedin.com/in/nilu-yadav-3939bb262?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/nilu yadav.jpeg" },
       { name: "Vibha Varma", role: "Creative WC", linkedin: "https://www.linkedin.com/in/vibha-varma-82641041a?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
-      { name: "Sarthak Katariya", role: "Creative WC", linkedin: "https://www.linkedin.com/in/sarthak-katariya-0a8910363?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
+      { name: "Sarthak Katariya", role: "Creative WC", linkedin: "https://www.linkedin.com/in/sarthak-katariya-0a8910363?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/sarthak katariya.jpeg" },
       { name: "Riya Giri", role: "Social WC", linkedin: "https://www.linkedin.com/in/riya-giri-39b8793bb?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
       { name: "Kshitij Singh", role: "Social WC", linkedin: "https://www.linkedin.com/in/kshitij-singh-303025322?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
       { name: "Samarth Singh", role: "Social WC", linkedin: "https://www.linkedin.com/in/samarth-singh-38b554321?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/samarth.jpg.jpeg" }
     ],
     adminDoc: [
-      { name: "Aarushi Shah", role: "Joint Secretary", linkedin: "https://www.linkedin.com/in/aarushi-shah-engg29?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
+      { name: "Aarushi Shah", role: "Joint Secretary", linkedin: "https://www.linkedin.com/in/aarushi-shah-engg29?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/aarushi shah.jpeg" },
       { name: "Aryan Rama", role: "Doc Associate", linkedin: "https://www.linkedin.com/in/arynram?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" }
     ]
   }
