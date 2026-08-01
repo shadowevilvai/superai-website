@@ -109,8 +109,8 @@ const MemberCard = ({ member }) => {
         <div className="absolute inset-0 backface-hidden rotate-y-180 bg-[#11111a] border border-cyber-blue/40 rounded-2xl overflow-hidden flex flex-col items-center justify-center p-4 shadow-[0_0_20px_rgba(0,240,255,0.15)]">
           <h4 className="font-semibold text-sm mb-4 text-center text-white">{member.name}</h4>
           <div className="flex gap-3 mb-4">
-            <a href={member.linkedin} onClick={(e) => e.stopPropagation()} className="p-2 bg-white/5 rounded-full hover:bg-cyber-blue hover:text-black transition-colors"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" className="w-5 h-5" /></a>
-            <a href={member.github} onClick={(e) => e.stopPropagation()} className="p-2 bg-white/5 rounded-full hover:bg-cyber-blue hover:text-black transition-colors"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" className="w-5 h-5" /></a>
+            <a href={member.linkedin} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()} className="p-2 bg-white/5 rounded-full hover:bg-cyber-blue hover:text-black transition-colors"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" className="w-5 h-5" /></a>
+            <a href={member.github} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()} className="p-2 bg-white/5 rounded-full hover:bg-cyber-blue hover:text-black transition-colors"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" className="w-5 h-5" /></a>
           </div>
           <div className="text-[9px] text-gray-400 font-mono tracking-widest uppercase text-center flex items-center gap-1 group-hover:text-cyber-blue transition-colors">
             <RefreshCw size={10} /> Flip Back
