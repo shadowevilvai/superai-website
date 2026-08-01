@@ -19,7 +19,7 @@ const teamData = {
   juniorCore: {
     tech: [
       { name: "Guruprasad Dubey", role: "Tech Associate", linkedin: "https://www.linkedin.com/in/guruprasad-dubey-b14b66382?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/guruprasad dubey.jpeg" },
-      { name: "Saurabh Jaiswal", role: "Tech WC", linkedin: "https://www.linkedin.com/in/saurabh-jaiswal-87b218387?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/saurabh.jpeg" },
+      { name: "Saurabh Jaiswal", role: "Tech WC", linkedin: "https://www.linkedin.com/in/saurabh-jaiswal-87b218387?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/saurabh.jpeg", position: "object-center" },
       { name: "Sayam Kala", role: "Tech WC", linkedin: "https://www.linkedin.com/in/sayam-kala-jain?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "/team/sayam kala.jpeg" }
     ],
     creativeSocial: [
@@ -64,7 +64,7 @@ const HexMemberCard = ({ member, size = "md", isCircle = false, color = "cyber-b
         <div className={`absolute inset-[2px] bg-[#0a0a0f] overflow-hidden ${shapeClass}`}>
           {/* Image Placeholder */}
           {member.image ? (
-            <img src={member.image} alt={member.name} className="w-full h-full object-cover object-top" />
+            <img src={member.image} alt={member.name} className={`w-full h-full object-cover ${member.position || 'object-top'}`} />
           ) : (
             <div className="w-full h-full bg-gradient-to-br from-gray-800 to-black opacity-80 group-hover:opacity-100 transition-opacity"></div>
           )}
