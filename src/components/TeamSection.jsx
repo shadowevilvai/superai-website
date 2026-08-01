@@ -32,7 +32,7 @@ const teamData = {
     ],
     adminDoc: [
       { name: "Aarushi Shah", role: "Joint Secretary", linkedin: "https://www.linkedin.com/in/aarushi-shah-engg29?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" },
-      { name: "Aryan Rama", role: "Doc Associate", linkedin: "#", github: "#", image: "" }
+      { name: "Aryan Rama", role: "Doc Associate", linkedin: "https://www.linkedin.com/in/arynram?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#", image: "" }
     ]
   }
 };
