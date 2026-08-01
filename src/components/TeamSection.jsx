@@ -11,8 +11,8 @@ const teamData = [
     domain: "Faculty Advisors",
     hasCommittee: false,
     heads: [
-      { name: "Dr. Shiwani Gupta", role: "HOD AI&ML", linkedin: "#", github: "#" },
-      { name: "Mrs. Shilpa Mathur", role: "Faculty In-Charge", linkedin: "#", github: "#" }
+      { name: "Dr. Shiwani Gupta", role: "HOD AI&ML", linkedin: "https://www.linkedin.com/in/dr-shiwani-gupta-9b731a53?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" },
+      { name: "Mrs. Shilpa Mathur", role: "Faculty In-Charge", linkedin: "https://www.linkedin.com/in/shilpa-mathur-83660a18?utm_source=share_via&utm_content=profile&utm_medium=member_android", github: "#" }
     ],
     committee: []
   },
