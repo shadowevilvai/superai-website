@@ -14,7 +14,8 @@ const eventsData = [
     mode: "Online",
     title: "Aptitude Test 1",
     desc: "Quantitative Aptitude & Logical Reasoning",
-    icon: Target
+    icon: Target,
+    status: 'completed'
   },
   {
     id: 2,
@@ -23,7 +24,8 @@ const eventsData = [
     mode: "Online",
     title: "Aptitude Test 2 & Peer Learning 1",
     desc: "(Python, DBMS, OOP) + Vibe Coding",
-    icon: Code
+    icon: Code,
+    status: 'upcoming'
   },
   {
     id: 3,
@@ -32,7 +34,8 @@ const eventsData = [
     mode: "Online",
     title: "Alumni Connect",
     desc: "Internship & Higher Studies Guidance",
-    icon: Users
+    icon: Users,
+    status: 'upcoming'
   },
   {
     id: 4,
@@ -41,7 +44,8 @@ const eventsData = [
     mode: "Offline",
     title: "Prompt Engineering Challenge",
     desc: "Test your AI interaction skills.",
-    icon: Lightbulb
+    icon: Lightbulb,
+    status: 'upcoming'
   },
   {
     id: 5,
@@ -50,7 +54,8 @@ const eventsData = [
     mode: "Online",
     title: "Competitive Coding Session",
     desc: "Round 1 of the ultimate coding face-off.",
-    icon: Monitor
+    icon: Monitor,
+    status: 'upcoming'
   },
   {
     id: 6,
@@ -59,7 +64,8 @@ const eventsData = [
     mode: "Offline",
     title: "Expert Talk",
     desc: "DataScience To Industry: Bridging the Academic Gap.",
-    icon: Award
+    icon: Award,
+    status: 'upcoming'
   },
   {
     id: 7,
@@ -68,7 +74,8 @@ const eventsData = [
     mode: "Online",
     title: "Peer Learning 2 & Coding Round 2",
     desc: "Agritech & IOT integration with AI.",
-    icon: Users
+    icon: Users,
+    status: 'upcoming'
   },
   {
     id: 8,
@@ -77,7 +84,8 @@ const eventsData = [
     mode: "Offline",
     title: "AI Innovation Challenge",
     desc: "Project Showcase & Grand Finale.",
-    icon: Award
+    icon: Award,
+    status: 'upcoming'
   }
 ];
 
@@ -144,7 +152,13 @@ export default function EventsSection() {
             <div key={evt.id} className={`event-card flex flex-col md:flex-row items-center justify-between w-full ${idx % 2 === 0 ? 'md:flex-row-reverse' : ''}`}>
               
               {/* Timeline Dot */}
-              <div className="hidden md:flex absolute left-1/2 -translate-x-1/2 w-10 h-10 rounded-full bg-[#0a0015] border-2 border-cyber-blue items-center justify-center shadow-[0_0_15px_rgba(0,240,255,0.5)] z-20">
+              <div className={`hidden md:flex absolute left-1/2 -translate-x-1/2 w-10 h-10 rounded-full bg-[#0a0015] border-2 items-center justify-center z-20 ${
+                evt.status === 'completed' 
+                  ? 'border-green-500 shadow-[0_0_15px_rgba(34,197,94,0.5)]' 
+                  : evt.status === 'upcoming'
+                    ? 'border-red-500 shadow-[0_0_15px_rgba(239,68,68,0.5)]'
+                    : 'border-cyber-blue shadow-[0_0_15px_rgba(0,240,255,0.5)]'
+              }`}>
                 <Calendar size={16} className="text-white" />
               </div>
 
