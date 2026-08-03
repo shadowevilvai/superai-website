@@ -52,13 +52,12 @@ function Planet({ radius, speed, letter, startAngle, color }) {
           <Text
             position={[0, 0.6, 0]}
             fontSize={0.4}
-            color="#ffffff"
+            color={color}
             anchorX="center"
             anchorY="middle"
             font="https://fonts.gstatic.com/s/orbitron/v31/yKP5lJlBUpLcw9fNOyw2wA.woff"
           >
             {letter}
-            <meshStandardMaterial color="#ffffff" emissive="#00F0FF" emissiveIntensity={2} />
           </Text>
         </Float>
       </group>
@@ -101,13 +100,12 @@ function Sun() {
       <Text
         position={[0, 0, 1.4]}
         fontSize={1}
-        color="#ffffff"
+        color="#00F0FF"
         anchorX="center"
         anchorY="middle"
         font="https://fonts.gstatic.com/s/orbitron/v31/yKP5lJlBUpLcw9fNOyw2wA.woff"
       >
         AI
-        <meshStandardMaterial color="#ffffff" emissive="#00F0FF" emissiveIntensity={2} />
       </Text>
       
       {/* Central AI Text (Back) */}
@@ -115,13 +113,12 @@ function Sun() {
         position={[0, 0, -1.4]}
         rotation={[0, Math.PI, 0]}
         fontSize={1}
-        color="#ffffff"
+        color="#00F0FF"
         anchorX="center"
         anchorY="middle"
         font="https://fonts.gstatic.com/s/orbitron/v31/yKP5lJlBUpLcw9fNOyw2wA.woff"
       >
         AI
-        <meshStandardMaterial color="#ffffff" emissive="#00F0FF" emissiveIntensity={2} />
       </Text>
     </group>
   );
