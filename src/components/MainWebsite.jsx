@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { ArrowRight, Code, Cpu, ChevronDown, Database, Network, Eye, Layers, Mail, MapPin, Globe, Terminal, Zap } from 'lucide-react';
 import TeamSection from './TeamSection';
 import MeshGradient from './MeshGradient';
-import RobotHero from './RobotHero';
+import SolarSystemHero from './SolarSystemHero';
 import EventsSection from './EventsSection';
 import ScrambleText from './ScrambleText';
 import CursorTrail from './CursorTrail';
@@ -189,7 +189,7 @@ export default function MainWebsite() {
           </div>
 
           <div className="hero-content absolute md:relative w-full h-[50vh] md:w-1/2 md:h-screen opacity-30 md:opacity-100 z-0 flex items-center justify-center pointer-events-none">
-            <RobotHero />
+            <SolarSystemHero />
           </div>
           
           
