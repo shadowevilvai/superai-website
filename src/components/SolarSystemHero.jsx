@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
-import { Float, Environment, Text } from '@react-three/drei';
+import { Float, Environment } from '@react-three/drei';
 import * as THREE from 'three';
 
 // Planet Component
@@ -48,17 +48,6 @@ function Planet({ radius, speed, letter, startAngle, color }) {
             />
           </mesh>
           
-          {/* Floating 3D Text */}
-          <Text
-            position={[0, 0.6, 0]}
-            fontSize={0.4}
-            color={color}
-            anchorX="center"
-            anchorY="middle"
-            font="https://fonts.gstatic.com/s/orbitron/v31/yKP5lJlBUpLcw9fNOyw2wA.woff"
-          >
-            {letter}
-          </Text>
         </Float>
       </group>
     </>
@@ -95,31 +84,6 @@ function Sun() {
         <sphereGeometry args={[1.25, 32, 32]} />
         <meshBasicMaterial color="#00F0FF" wireframe transparent opacity={0.15} />
       </mesh>
-      
-      {/* Central AI Text (Front) */}
-      <Text
-        position={[0, 0, 1.4]}
-        fontSize={1}
-        color="#00F0FF"
-        anchorX="center"
-        anchorY="middle"
-        font="https://fonts.gstatic.com/s/orbitron/v31/yKP5lJlBUpLcw9fNOyw2wA.woff"
-      >
-        AI
-      </Text>
-      
-      {/* Central AI Text (Back) */}
-      <Text
-        position={[0, 0, -1.4]}
-        rotation={[0, Math.PI, 0]}
-        fontSize={1}
-        color="#00F0FF"
-        anchorX="center"
-        anchorY="middle"
-        font="https://fonts.gstatic.com/s/orbitron/v31/yKP5lJlBUpLcw9fNOyw2wA.woff"
-      >
-        AI
-      </Text>
     </group>
   );
 }
