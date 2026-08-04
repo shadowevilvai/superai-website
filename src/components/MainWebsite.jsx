@@ -188,6 +188,9 @@ export default function MainWebsite() {
             </MagneticButton>
           </div>
 
+          {/* Spacer div to maintain original flex layout, keeping text exactly on the left */}
+          <div className="hidden md:block md:w-1/2 h-full z-0"></div>
+
           <div className="hero-content absolute inset-0 w-full h-full opacity-30 md:opacity-100 z-0 flex items-center justify-center pointer-events-none">
             <SolarSystemHero />
           </div>
