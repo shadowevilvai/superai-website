@@ -188,7 +188,7 @@ export default function MainWebsite() {
             </MagneticButton>
           </div>
 
-          <div className="hero-content absolute md:relative w-full h-[50vh] md:w-1/2 md:h-screen opacity-30 md:opacity-100 z-0 flex items-center justify-center pointer-events-none">
+          <div className="hero-content absolute inset-0 w-full h-full opacity-30 md:opacity-100 z-0 flex items-center justify-center pointer-events-none">
             <SolarSystemHero />
           </div>
           

@@ -1,6 +1,6 @@
-import React, { useRef } from 'react';
+import React, { useRef, useState, useEffect } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
-import { Float, Environment } from '@react-three/drei';
+import { Float, Environment, Html } from '@react-three/drei';
 import * as THREE from 'three';
 
 // Planet Component
@@ -48,6 +48,20 @@ function Planet({ radius, speed, letter, startAngle, color }) {
             />
           </mesh>
           
+          {/* Floating HTML Text */}
+          <Html position={[0, 0.6, 0]} center>
+            <div 
+              style={{ 
+                color, 
+                fontSize: '1.2rem', 
+                fontWeight: 'bold', 
+                fontFamily: 'Orbitron, sans-serif',
+                textShadow: `0 0 10px ${color}`
+              }}
+            >
+              {letter}
+            </div>
+          </Html>
         </Float>
       </group>
     </>
@@ -84,35 +98,42 @@ function Sun() {
         <sphereGeometry args={[1.25, 32, 32]} />
         <meshBasicMaterial color="#00F0FF" wireframe transparent opacity={0.15} />
       </mesh>
+      
+      {/* Central AI Text */}
+      <Html position={[0, 0, 0]} center>
+        <div 
+          style={{ 
+            color: '#00F0FF', 
+            fontSize: '3rem', 
+            fontWeight: 'bold', 
+            fontFamily: 'Orbitron, sans-serif',
+            textShadow: '0 0 20px #00F0FF'
+          }}
+        >
+          AI
+        </div>
+      </Html>
     </group>
   );
 }
 
-function SolarSystem() {
+function SolarSystem({ isMobile }) {
   const systemRef = useRef();
+  
+  // Removed useFrame mouse logic as requested
 
-  useFrame((state) => {
-    // Mouse coordinates mapped to 3D space (-1 to 1)
-    const mouseX = state.mouse.x;
-    const mouseY = state.mouse.y;
-
-    // Smoothly tilt the entire solar system based on mouse
-    if (systemRef.current) {
-      systemRef.current.rotation.y = THREE.MathUtils.lerp(systemRef.current.rotation.y, (mouseX * Math.PI) / 8, 0.05);
-      systemRef.current.rotation.x = THREE.MathUtils.lerp(systemRef.current.rotation.x, (mouseY * Math.PI) / 8 + 0.2, 0.05);
-    }
-  });
-
+  // All planets have the exact same speed now (0.3) so they never align
   const planets = [
-    { letter: 'R', radius: 2.2, speed: 0.6, color: '#00F0FF' },
-    { letter: 'A', radius: 2.9, speed: 0.5, color: '#7000FF' },
-    { letter: 'P', radius: 3.6, speed: 0.4, color: '#FF0055' },
+    { letter: 'R', radius: 2.2, speed: 0.3, color: '#00F0FF' },
+    { letter: 'A', radius: 2.9, speed: 0.3, color: '#7000FF' },
+    { letter: 'P', radius: 3.6, speed: 0.3, color: '#FF0055' },
     { letter: 'I', radius: 4.3, speed: 0.3, color: '#00FF88' },
-    { letter: 'D', radius: 5.0, speed: 0.2, color: '#FFD700' },
+    { letter: 'D', radius: 5.0, speed: 0.3, color: '#FFD700' },
   ];
 
   return (
-    <group ref={systemRef} rotation={[0.2, 0, 0]}>
+    // Shift slightly to the right on desktop, center on mobile
+    <group ref={systemRef} rotation={[0.2, 0, 0]} position={[isMobile ? 0 : 3.5, 0, 0]}>
       <Sun />
       {planets.map((p, i) => (
         <Planet 
@@ -129,6 +150,15 @@ function SolarSystem() {
 }
 
 export default function SolarSystemHero() {
+  const [isMobile, setIsMobile] = useState(false);
+  
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth < 768);
+    handleResize(); // Initial check
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
   return (
     <div className="absolute inset-0 z-0 flex items-center justify-center opacity-90 pointer-events-auto">
       <Canvas camera={{ position: [0, 2.5, 9.5], fov: 45 }}>
@@ -140,7 +170,7 @@ export default function SolarSystemHero() {
         <Environment preset="city" />
 
         <Float speed={1} rotationIntensity={0.2} floatIntensity={0.5}>
-          <SolarSystem />
+          <SolarSystem isMobile={isMobile} />
         </Float>
       </Canvas>
     </div>
