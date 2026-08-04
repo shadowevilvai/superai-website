@@ -68,12 +68,12 @@ const TeamCard = ({ member, color = "cyan" }) => {
   const theme = colors[color] || colors.cyan;
   
   return (
-    <div className={`relative flex flex-col items-center p-3 rounded-2xl transition-all duration-300 group cursor-pointer 
-      border bg-[#0B0F19] w-[140px] md:w-[160px] lg:w-[170px] min-h-[220px] 
-      ${theme.border} ${theme.glow} hover:scale-110 hover:-translate-y-2 z-10 hover:z-50`}>
+    <div className={`relative flex flex-col items-center p-3 pt-4 rounded-2xl transition-all duration-500 group cursor-pointer 
+      border bg-[#0B0F19] w-[130px] sm:w-[140px] md:w-[150px] lg:w-[155px] min-h-[220px] shrink-0
+      ${theme.border} ${theme.glow} hover:z-50`}>
       
-      {/* Inner Image Box */}
-      <div className={`w-full aspect-square rounded-xl border mb-4 relative overflow-hidden bg-[#131b2a] transition-colors duration-300 ${theme.border} group-hover:border-transparent`}>
+      {/* Inner Image Card - Pops up out of the main card on hover! */}
+      <div className={`w-full aspect-square rounded-xl border mb-3 relative overflow-hidden bg-[#131b2a] transition-all duration-500 ${theme.border} group-hover:border-transparent group-hover:-translate-y-8 group-hover:scale-105 group-hover:shadow-[0_15px_30px_rgba(0,0,0,0.6)] z-20`}>
         {member.image ? (
           <img src={member.image} alt={member.name} className={`w-full h-full object-cover ${member.position || 'object-top'}`} />
         ) : (
@@ -86,11 +86,11 @@ const TeamCard = ({ member, color = "cyan" }) => {
       </div>
 
       {/* Text Content */}
-      <h4 className="text-white font-bold text-sm text-center leading-tight mb-1 px-1">{member.name}</h4>
-      <p className={`${theme.text} text-[10px] md:text-[11px] font-mono text-center px-1 mb-2`}>{member.role}</p>
+      <h4 className="text-white font-bold text-[13px] md:text-sm text-center leading-tight mb-1 px-1 transition-transform duration-500 group-hover:-translate-y-2">{member.name}</h4>
+      <p className={`${theme.text} text-[10px] md:text-[11px] font-mono text-center px-1 mb-2 transition-transform duration-500 group-hover:-translate-y-2`}>{member.role}</p>
 
-      {/* Social Links (Fade in on hover, absolute to not disrupt flow, or we can use fixed height) */}
-      <div className="h-0 opacity-0 overflow-hidden group-hover:h-8 group-hover:opacity-100 transition-all duration-300 flex items-center justify-center gap-3">
+      {/* Social Links (Revealed at the bottom when image pops up) */}
+      <div className="absolute bottom-4 opacity-0 group-hover:opacity-100 transition-all duration-500 flex items-center justify-center gap-3">
         {member.linkedin && member.linkedin !== '#' && (
           <a href={member.linkedin} target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform bg-white/10 rounded-md p-1" onClick={(e) => e.stopPropagation()}>
             <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" className="w-5 h-5" />
@@ -114,9 +114,9 @@ const SectionSubheading = ({ text }) => (
 );
 
 const JuniorCoreGroup = ({ data }) => (
-  <div className="flex flex-col items-center p-6 border border-dashed border-[#1a2333] rounded-3xl reveal-node bg-black/20">
-    <h4 className="text-gray-400 font-mono tracking-widest text-xs mb-6 uppercase text-center">{data.title}</h4>
-    <div className="flex flex-wrap justify-center gap-4 md:gap-6">
+  <div className="flex flex-col items-center p-4 md:p-6 border border-dashed border-[#1a2333] rounded-3xl reveal-node bg-black/20 w-full">
+    <h4 className="text-gray-400 font-mono tracking-widest text-[10px] md:text-xs mb-6 uppercase text-center">{data.title}</h4>
+    <div className="flex flex-row flex-wrap xl:flex-nowrap justify-center gap-3 w-full">
       {data.members.map((member, i) => (
         <TeamCard key={i} member={member} color="cyan" />
       ))}
@@ -189,7 +189,8 @@ export default function TeamSection() {
         <div className="w-full flex flex-col items-center">
           <SectionSubheading text="JUNIOR CORE TEAM" />
           
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-5xl">
+          {/* Use xl:grid-cols-2 to give them enough room to prevent 3-member wrapping on medium desktops */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8 w-full max-w-[1200px]">
             <JuniorCoreGroup data={teamData.juniorCore.operations} />
             <JuniorCoreGroup data={teamData.juniorCore.tech} />
             <JuniorCoreGroup data={teamData.juniorCore.creative} />
