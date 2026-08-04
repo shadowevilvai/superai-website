@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { Canvas, useFrame, useThree } from '@react-three/fiber';
-import { Float, Environment, Html } from '@react-three/drei';
+import { Float, Environment, Html, OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
 
 // Planet Component
@@ -132,8 +132,8 @@ function SolarSystem({ isMobile }) {
   ];
 
   return (
-    // Shift slightly to the right on desktop, center on mobile
-    <group ref={systemRef} rotation={[0.2, 0, 0]} position={[isMobile ? 0 : 3.5, 0, 0]}>
+    // Shift slightly to the left (from 3.5 to 2.5) on desktop to prevent rings getting cut out
+    <group ref={systemRef} rotation={[0.2, 0, 0]} position={[isMobile ? 0 : 2.5, 0, 0]}>
       <Sun />
       {planets.map((p, i) => (
         <Planet 
@@ -168,6 +168,13 @@ export default function SolarSystemHero() {
         <spotLight position={[0, 5, 5]} angle={0.5} penumbra={1} intensity={2} color="#ffffff" castShadow />
         
         <Environment preset="city" />
+
+        <OrbitControls 
+          enableZoom={false} 
+          enablePan={false} 
+          enableRotate={true}
+          autoRotate={false}
+        />
 
         <Float speed={1} rotationIntensity={0.2} floatIntensity={0.5}>
           <SolarSystem isMobile={isMobile} />
