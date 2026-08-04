@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
-import { Canvas, useFrame } from '@react-three/fiber';
+import { Canvas, useFrame, useThree } from '@react-three/fiber';
 import { Float, Environment, Html } from '@react-three/drei';
 import * as THREE from 'three';
 
@@ -119,6 +119,7 @@ function Sun() {
 
 function SolarSystem({ isMobile }) {
   const systemRef = useRef();
+  const { width } = useThree((state) => state.viewport);
   
   // Removed useFrame mouse logic as requested
 
@@ -131,9 +132,13 @@ function SolarSystem({ isMobile }) {
     { letter: 'D', radius: 5.0, speed: 0.3, color: '#FFD700' },
   ];
 
+  // Dynamically position on the right half of the screen for desktop
+  // Math.max ensures it shifts far enough right to not overlap text on medium screens
+  const positionX = isMobile ? 0 : Math.max(5.5, width / 4);
+
   return (
-    // Shift slightly to the right on desktop, center on mobile
-    <group ref={systemRef} rotation={[0.2, 0, 0]} position={[isMobile ? 0 : 3.5, 0, 0]}>
+    // Shift to the right on desktop, center on mobile
+    <group ref={systemRef} rotation={[0.2, 0, 0]} position={[positionX, 0, 0]}>
       <Sun />
       {planets.map((p, i) => (
         <Planet 
