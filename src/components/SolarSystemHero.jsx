@@ -174,7 +174,7 @@ export default function SolarSystemHero() {
           cursor={true} 
           snap={true} 
           speed={1.5} 
-          rotation={[0.6, -0.2, 0]} 
+          rotation={[0.35, -0.1, 0]} 
           polar={[-Math.PI / 3, Math.PI / 3]} 
           azimuth={[-Math.PI / 2, Math.PI / 2]}
         >
