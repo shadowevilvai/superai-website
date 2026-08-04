@@ -86,11 +86,13 @@ const TeamCard = ({ member, color = "cyan" }) => {
       </div>
 
       {/* Text Content */}
-      <h4 className="text-white font-bold text-[13px] md:text-sm text-center leading-tight mb-1 px-1 transition-transform duration-500 group-hover:-translate-y-2">{member.name}</h4>
-      <p className={`${theme.text} text-[10px] md:text-[11px] font-mono text-center px-1 mb-2 transition-transform duration-500 group-hover:-translate-y-2`}>{member.role}</p>
+      <div className="flex flex-col items-center w-full transition-transform duration-500 group-hover:-translate-y-6">
+        <h4 className="text-white font-bold text-[13px] md:text-sm text-center leading-tight mb-1 px-1">{member.name}</h4>
+        <p className={`${theme.text} text-[10px] md:text-[11px] font-mono text-center px-1 mb-2`}>{member.role}</p>
+      </div>
 
       {/* Social Links (Revealed at the bottom when image pops up) */}
-      <div className="absolute bottom-4 opacity-0 group-hover:opacity-100 transition-all duration-500 flex items-center justify-center gap-3">
+      <div className="absolute bottom-3 opacity-0 group-hover:opacity-100 transition-all duration-500 flex items-center justify-center gap-3">
         {member.linkedin && member.linkedin !== '#' && (
           <a href={member.linkedin} target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform bg-white/10 rounded-md p-1" onClick={(e) => e.stopPropagation()}>
             <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" className="w-5 h-5" />
