@@ -132,8 +132,8 @@ function SolarSystem({ isMobile }) {
   ];
 
   return (
-    // Shift back to the right but scale down slightly so it doesn't get cut out on the edges
-    <group ref={systemRef} scale={isMobile ? 0.6 : 0.85} position={[isMobile ? 0 : 3.8, 0, 0]}>
+    // Shift slightly towards the left and upward based on user feedback
+    <group ref={systemRef} scale={isMobile ? 0.6 : 0.85} position={[isMobile ? 0 : 3.0, isMobile ? 0 : 0.6, 0]}>
       <Sun />
       {planets.map((p, i) => (
         <Planet 
