@@ -13,8 +13,6 @@ export default function ParallaxBackground() {
       const elements = gsap.utils.toArray('.parallax-element');
       
       elements.forEach((el) => {
-        const speed = el.getAttribute('data-speed');
-        
         gsap.to(el, {
           y: (i, target) => -ScrollTrigger.maxScroll(window) * target.dataset.speed,
           ease: "none",

@@ -24,6 +24,13 @@ const DataStream = ({ style, delay = 0 }) => {
     </div>
   );
 };
+const statusMessages = [
+  "ESTABLISHING SECURE CONNECTION...",
+  "SYNCHRONIZING CORE DATA...",
+  "AUTHENTICATING TCET ACCESS...",
+  "DECRYPTING USER PROFILE...",
+  "INITIALIZING NEURAL NETWORKS..."
+];
 
 export default function InterlockingPreloader({ onComplete }) {
   const containerRef = useRef(null);
@@ -34,14 +41,6 @@ export default function InterlockingPreloader({ onComplete }) {
   
   const [status, setStatus] = useState("ESTABLISHING SECURE CONNECTION...");
   const [progress, setProgress] = useState(0);
-  
-  const statusMessages = [
-    "ESTABLISHING SECURE CONNECTION...",
-    "SYNCHRONIZING CORE DATA...",
-    "AUTHENTICATING TCET ACCESS...",
-    "DECRYPTING USER PROFILE...",
-    "INITIALIZING NEURAL NETWORKS..."
-  ];
 
   useEffect(() => {
     const tl = gsap.timeline({
