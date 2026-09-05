@@ -1,0 +1,2689 @@
+--- TEXT FROM A.Y 2022-23 Even Sem.docx ---
+                               A.Y 2022-23 Even Sem	                                  Date:23/6/23
+Report on PSR Activity: Super AI Community Stakeholder Connect
+Objective:
+The objective of Super AI Community Stakeholder Connect is to build students’ knowledge, skill and strengthen the domain by inclusion of Industry Academia/ Alumni expert sessions/ Peers Learning Sessions, competitions, exhibitions and collaborative research activities.
+Following activities are done during Academic Year 2022-23 Even Semester:
+Activity 1: Chatgpt Competition
+Date: 16th February 2023
+Time: 3:30pm to 5:30pm
+Participants: ST and TT students   
+Objectives:  
+To enhance research and critical thinking skills
+To gain hands-on experience with AI language models
+To promote effective communication skills
+Description: 
+Super AI Stakeholder Connect conducted a competition on “ChatGpt”.In the ChatGPT competition, participants were provided with a set of questions to find out the answers using ChatGPT. The objective was to utilize the capabilities of ChatGPT to retrieve accurate information. Participants delved into the world of AI, asking questions and receiving responses from the model. Their task was to analyze and evaluate the answers to determine their accuracy and relevance. Points were awarded based on the accuracy of their answers. 
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome:
+Students were able to enhance their information retrieval abilities and gain practical experience in leveraging AI language models.
+PO Attained: PO1,PO2,PO3,PO5,PO9,PO10
+Activity 2: The Art of Time Series Forecasting and Analytics
+Date: 9th March, 2023
+Time: 3:30 PM-5:30 PM
+Participants: ST and TT Students    
+Objectives:  
+To provide insights and knowledge about time series forecasting and analytics.
+To impart the best practices for creating accurate forecasts.
+To equip attendees with the skills to effectively utilize time series data in their analytical work.
+Description: 
+Super AI Stakeholder Connect conducted a seminar on "The Art of Time Series Forecasting and Analytics" by Hrishikesh Yadav. The seminar aimed to provide valuable insights into time series forecasting and analytics. Participants learned about the fundamentals of time series analysis and were equipped with the best practices for creating accurate forecasts.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Students were able to understand the fundamentals of time series of analytics.
+PO Attained:	PO1,PO2,PO3,PO9
+Activity 3: Ideathon    
+Date: 23rd March 2023
+Participants: ST and TT Students    
+Objectives:  
+To foster creativity and problem-solving skills
+To promote collaboration and teamwork
+To encourage participants to submit their innovative ideas
+Participation Analysis:
+Description: 
+Super AI Stakeholder Connect organized an Ideathon for AI&ML students. Participants submitted innovative ideas in a PPT format, showcasing creativity and problem-solving skills. Third-year TT students demonstrated 50% implementation, excluding reuse of previous RBL ideas. Collaboration in teams of 1-4 members was encouraged. Standardized PPT template ensured consistent evaluation.
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+The activity proved to be a captivating experience for the students as they creatively portrayed their perspectives and ideas within the domain.
+PO Attained: PO1,PO2,PO3,PO4,PO5,PO6,PO7,PO8,PO9,PO10
+Activity 4: Quiz Competition
+Date: 20th April, 2023
+Time:  4.30 pm onwards
+Participants: ST Students    
+Objectives:  
+To enhance students' analytical capabilities and cognitive reasoning. 
+To develop and refine their problem-solving strategies and logical reasoning techniques.
+ Description: 
+The Quiz competition organized by Super AI Stakeholder Connect successfully challenged students' problem-solving abilities and enhanced their analytical capabilities and cognitive reasoning skills. The event, conducted online via Google Form, provided an accessible platform for students to showcase their problem-solving abilities. Participants enthusiastically registered and actively engaged in solving a set of challenging multiple-choice and fill-in-the-blanks questions. 
+Participation Analysis:
+Feedback Analysis:
+Outcome: 
+Students were able to enhance their problem-solving abilities and cognitive reasoning skills through active participation in the Quiz competition.
+PO Attained:PO1,PO2,PO8,PO9
+Activity 5: Expert session on emerging tools in AI.
+Date - 15/05/2023
+Time - 7:30pm 
+Participants: ST and TT Students    
+Objectives:  
+To provide attendees with insights into emerging tools in AI
+To gain practical knowledge and understand how these emerging tools can be implemented in real-world scenarios.
+To familiarize participants with the features, applications, and advantages of these tools, enabling them to stay updated with the latest advancements in AI.
+Description: 
+Super AI Stakeholder Connect recently organized an Expert session on emerging tools in AI. The session aimed to provide attendees with valuable insights into the latest advancements in AI technology. Topics covered included BDA-Data Lake and AIP-Mean stack, offering practical knowledge and demonstrating how these tools can be implemented in real-world scenarios. Led by an experienced industry professional, the session provided a comprehensive understanding of the applications and benefits of these emerging AI tools.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Students were able to enhance their knowledge in the field and gain valuable insights into the rapidly evolving AI landscape.
+PO Attained:PO1,PO2,PO3,PO5
+Prepared By
+Mrs Shilpa Mathur							 Dr.Megharani Patil
+Faculty Coordinator						             Convener
+Assistant Professor AI&ML                                                                I/C HOD AI&ML
+--- TEXT FROM A.Y 2022-23 Odd Sem.docx ---
+ideation                
+                               A.Y 2022-23(Odd Sem)	                             Date:
+Report on PSR Activity: Super AI Community Stakeholder Connect
+Objective:
+The objective of Super AI Community Stakeholder Connect is to build students’ knowledge, skill and strengthen the domain by inclusion of Industry Academia/ Alumni expert sessions/ Peers Learning Sessions, competitions, exhibitions and collaborative research activities.
+Following activities are done during Academic Year 2022-23 Odd Semester:
+Activity 1: Session on Roadmap to Machine Learning
+Date: 7th October 2022
+Time: 2.30pm to 4.30pm
+Participants: ST and TT students   
+Objectives:  
+To provide the students a roadmap for Machine Learning.
+To help the students clear their doubts about their branch and the steps they need to follow.
+Description: 
+A Session on Roadmap to Machine Learning was conducted by Dr Megharani Patil, I/C HOD AI&ML. Dr Megharani Patil, I/C HOD AI&ML briefed students about the roadmap to Machine Learning, the prerequisites required ,tools and technologies to be learned to become industry ready.
+Participation Analysis:
+Outcome:
+Students were able to understand the importance of sharpening their skills and learning tools and technologies required by the industry.
+Activity 2: Peer Learning session on”DSA and Competitive Programming”
+Date: 11th October 2022
+Time: 2.30pm to 4.30pm
+Participants: ST and TT Students    
+Objectives:  
+To facilitate creative thinking in students.
+To create awareness of competitive programming platforms.
+To provide knowledge about Data Structure concepts.
+Description: 
+A Peer learning Session on”DSA and Competitive Programming” was conducted by Jwala Chorasiya,Student,TT(V Sem) . He guided the students about various programming platforms such as CodeChef and also gave insights about some important concepts of DSA and how to implement them.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Students were able to understand the importance of DSA and Competitive Programming and explored various platforms to practice Competitive Programming.
+Activity 3: Poster Making Competition of AI&ML Domains               
+Date: 28th  October 2022
+Participants: ST and TT Students    
+Objectives:  
+To facilitate creative thinking in students.
+To extend their research and thinking capabilities to higher levels.
+Participation Analysis:
+Description: 
+A Poster Making Competition was organized in online mode. Students were given one week time to create their posters (Digital or Hand-drawn). Student’s intellectual and creative posters showed their level of understanding of the Domain.. 
+Following are the domains given for Poster Making Competition:
+1.Health Care
+2.Agritech
+3.AI&ML in security
+4.Education
+5.Applications related to Social Benefits
+Activity Photo:
+Outcome: 
+Students were able to portray their perspectives of the domain in a creative way and hence found the activity very interesting.
+Activity 4: Online Session on “Prerequisites to deep learning” by industry expert and alumni of Computer Engineering Department
+Date: 29th October, 2022
+Time: 11.00am to 1.00pm
+Participants: ST & TT Students    
+Objectives:  
+To help students get an idea of what Deep Learning is and its prerequisites.
+To give them a fundamental idea of their field.
+To help the students to get their doubts cleared by an industry expert.
+ Description: 
+A Pre-requisites to deep learning session was organized in online mode, by Mr. Devrath Singh Bisht,Software Engineer at JP Morgan Chase&Co,Alumini of Computer Engineering Department. He taught some basic statistics and fundamentals of Deep learning by referring to some use cases of Deep Learning.
+Participation Analysis:
+ Activity Photo:
+Feedback Analysis:
+Outcome: 
+Students were able to understand Deep Learning concepts , tools and pre-requisites required and were able to gain clarity on the same.
+Activity 5: Coding Competition
+Date: 12th November 2022
+Time: 2.30pm to 4.30pm
+Platform: HackerEarth
+Participants: ST and TT Students    
+Objectives:  
+To facilitate objective thinking in students.
+To introduce and inculcate the habit of Coding.
+To extend their research and thinking capabilities to higher levels.
+Description: 
+A Coding competition was organized in online mode. Students were given two hours to solve 4 questions. Questions on following Subject Areas were asked:
+1.Array
+2.Data Structures
+3.Algorithms
+Participation Analysis:
+Feedback Analysis:
+Outcome: 
+Students were able to use their logical thinking and knowledge to implement the code.
+Activity 6: Peer Learning session on “Career Guidance”
+Date:28/12/2022
+Time: 4.30pm to 5.30pm
+Participants: FT Students    
+Objectives:  
+To create awareness about various career options.
+To give them a better understanding of the job market and different industries.
+Description: 
+A Peer learning Session on” Career Guidance” was conducted by Jwala Chorasiya,Student,TT(V Sem) . He guided the students about various career options.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Students were able to get clarity on career goals and steps to achieve them.
+Prepared By
+Mrs Shilpa Mathur							 Dr.Megharani Patil
+Faculty Coordinator						             Convener
+Assistant Professor AI&ML                                                                I/C HOD AI&ML
+--- TEXT FROM A.Y 2023-24 Even Sem.docx ---
+Date:16/04 /24
+                                                   A.Y 2023-24(Even Sem)	                                  
+Report on PSR Activity: Super AI Community Stakeholder Connect
+Objective:
+The objective of Super AI Community Stakeholder Connect is to empower students for success in Artificial Intelligence (AI) and their future careers by building a strong foundation in AI fundamentals, providing them with Workshops on R programming and Generative AI, Sharpening problem-solving and coding skills through dedicated sessions or participation in online challenges, and guidance helped students craft compelling LinkedIn profiles to showcase their AI skills and experience to potential employers.
+Following activities are done during Academic Year 2023-24 Even Semester:
+Activity 1: Expert Session on Sectors Exploration and Multicon Paper Presentation
+Date: January 20, 2024
+Time: 3:00 PM - 5:00 PM(Online)
+Speaker: Dr. Megharani Patil, HOD-AI&ML, Sector in-charges
+Participants: ST
+Objectives:  
+Broaden student understanding of the diverse applications of AI/ML across different sectors.
+Spark their interest in exploring specific areas of AI/ML specialization.
+Equip them with the knowledge and skills necessary to create compelling poster papers for academic conferences like MulticonW24.
+Description: 
+Super AI Stakeholder Connect is organizing an online session, offering an orientation for students interested in the diverse applications of Artificial Intelligence and Machine Learning (AI/ML). The session also provides guidance on crafting poster papers for the MulticonW24 conference.
+Participation Analysis:
+Feedback Analysis:
+Outcome:
+Participants gained a broader understanding of the diverse applications of AI/ML across different sectors.
+The session potentially sparked their interest in pursuing specific areas of AI/ML specialization.
+Students acquired knowledge and skills necessary for crafting impactful poster papers, potentially leading to conference presentations or research opportunities.
+PO Attained: PO1,PO2, PO4,PO8,PO9, PO10
+Activity 2: Gate Mock Test
+Date: 2nd February 2024
+Time: 2:00PM to 5:00PM(Online)
+Participants: ST, TT and BT Students    
+Objectives:  
+The mock test aimed to:
+Provide students appearing for the GATE exam with a realistic simulated testing experience.
+Help them assess their current level of knowledge and identify areas requiring further revision.
+Facilitate time management practice under exam conditions (3-hour duration).
+Allow students to familiarize themselves with the GATE exam format and question styles.
+Description: 
+Super AI Community Stakeholder Connect is conducting a Mock Test for all the students who
+are going to appear for the GATE Examination, Data Science and AI subjects. Everyone is requested to give the exam as a practice, even if they are not appearing for GATE now
+Activity Photo:
+Participation Analysis:
+Feedback Analysis:
+Outcome: 
+Participants gained insights into their current level of knowledge and preparedness for the GATE exam in Data Science and AI. This allows them to show areas requiring more focus in their studies. Taking the mock test under timed conditions (3 hours) simulates the actual GATE exam experience. This helps students practice managing their time effectively and develop their exam-taking strategies.
+PO Attained:	PO1,PO2, PO3, PO4,PO5, PO6,PO8,PO9
+Activity 3: Expert Session on BAI:Intelligent Systems Foundation to recent trends
+Date – 3rd Feb 2024
+Time - 11:30 to 1.30 PM(Online)
+Speaker: Dr. Megharani Patil, HOD-AI&ML
+Participants: ST students
+Objectives:  
+The session aimed to:
+To provide participants with a comprehensive understanding of the foundational concepts of intelligent systems and their application in business contexts, leading up to the exploration of recent trends in Business AI.
+Description: 
+Super AI Community Stakeholder Connect conducted an expert session on Basics of Artificial Intelligence presented by Dr.Megharani Patil This session aims to provide participants with a holistic view of Business AI, from its foundational concepts to the latest trends and future prospects, thereby enabling them to make informed decisions and strategies in leveraging AI for business growth and innovation. 
+Participation Analysis:
+Feedback Analysis:
+Outcome: 
+Participants gained a deeper understanding of how AI technologies are transforming various sectors through research and report writing. The collaborative task likely fostered teamwork and communication skills. The session potentially sparked further interest in exploring specific AI applications within different industries.
+PO Attained:PO1, PO2, PO3, PO4,PO5
+Activity 4: Peer Session on Competitive Programming
+Date – 3rd February,2024
+Time – 5:00pm to 7:00PM(Online)
+Speaker: Mr.Rohit Gupta,BT AI&ML student
+Participants: ST, TT, BT Students    
+Objectives:  
+Spark student interest in the exciting world of competitive programming.
+Demystify the core concepts and benefits of participating in coding challenges.
+Equip beginners with foundational knowledge of data structures and algorithms relevant to competitive programming.
+Description: 
+Super AI Community Stakeholder Connect is conducting a Competitive Programming session to learn more about competitive programming and data structures and algorithms. Providing valuable insights and resources for beginners interested in pursuing competitive programming.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Participants gained a solid understanding of what competitive programming entails and the key elements involved. The session piqued the curiosity of students who may not have been familiar with competitive programming, potentially motivating them to explore it further. Participants gained practical insights and resources to begin their journey in competitive programming, potentially leading them to practice basic problem-solving challenges.
+PO Attained:PO1, PO2, PO3,PO4,PO5, PO9,PO12
+Activity 5: Expert Session On SE(UML)
+Date – 9th February,2024
+Time – 10:30pm to 12:30PM,Offline 722
+Speaker: Dr. Megharani Patil, HOD-AI&ML
+Participants: TT Students    
+Objectives:  
+The session aimed to:
+Introduce participants to StarUML, a popular UML diagramming tool.
+Provide a basic understanding of UML concepts and their role in software development.
+Equip participants with the foundational skills to create basic UML diagrams using StarUML.
+Description: 
+This online session, organized by Super AI Community Stakeholder Connect, offered an introduction to StarUML, a software application used for creating UML (Unified Modeling Language) diagrams. UML diagrams are a visual representation of software systems, used for designing, documenting, and visualizing software components and their interactions.
+Participation Analysis:
+Feedback Analysis:
+Outcome: 
+Participants gained a foundational understanding of UML diagrams and their significance in software development. They were introduced to the StarUML interface and its basic functionalities for creating UML diagrams. The session potentially sparked an interest in exploring UML diagramming further and learning more advanced features of StarUML.
+PO Attained:PO1, PO2, PO3,PO4,PO5
+Activity 6: Expert Session on BAI: Intelligent Agents Applications
+Date – 17th February,2024
+Time – 10:30pm to 12:30PM(Online)
+Speaker: Dr. Megharani Patil, HOD-AI&ML
+Participants: ST Students    
+Objectives:  
+The session aimed to:
+To explore the diverse applications of intelligent agents in BAI) providing insights into how these agents enhance efficiency, decision-making, and customer experience across various industries.
+Description: 
+This expert session delves into the multifaceted applications of intelligent agents within Business AI (BAI). It illuminates how these agents, powered by advanced technologies like machine learning and natural language processing, revolutionize customer service, sales, operations, finance, and healthcare. Through case studies and discussions, participants explore the transformative impact of intelligent agents on efficiency, decision-making, and customer experience across diverse industries, while also addressing key challenges and future opportunities in their implementation.
+Outcome: 
+Participants have identified and discussed various applications of intelligent agents in business, academia, or other sectors
+Participation Analysis:
+PO Attained:PO1, PO2, PO3,PO4,PO5
+Activity 7: Expert Session on Major Project
+Date: 14th  March 2024
+Time: 3:00 PM - 5:00 PM 
+Location: Offline (Room 721)
+Speaker: Dr. Megharani Patil, HOD-AI&ML
+Objective:
+The workshop aimed to:
+Equip students with the knowledge and skills necessary to write a comprehensive and well-structured Black Book for their Major Projects in Artificial Intelligence and Machine Learning (AI/ML).
+Enhance their understanding of the purpose and content of a Black Book, which serves as a detailed record of the entire project lifecycle.
+Provide practical guidance on effectively documenting project details, including problem definition, methodology, results, discussion, and conclusions.
+Foster best practices for clear, concise, and well-organized technical writing within the Black Book.
+Description:
+This offline workshop, organized by Super AI Community Stakeholder Connect, focused on guiding final-year students through the process of drafting a Black Book for their Major Projects. Dr. Megharani Patil, HOD-AI&ML, led the session.
+Participation Analysis:
+Feedback Analysis:
+Outcomes:
+Participants gained valuable insights into the structure and key components of a well-written Black Book. The workshop equipped students with practical strategies for documenting their research methodologies, project steps, and findings within the Black Book. By understanding best practices for technical writing, students were empowered to present their project effectively through the Black Book. The session potentially boosted confidence in approaching the Black Book writing process with a clear roadmap.
+PO Attained:PO1, PO2, PO3,PO4,PO5,PO7,PO8,PO9,PO10,PO11,PO12
+Activity 8: Coding Competition.
+Date - 15th March, 2023
+Time – 8:00PM to 10:00 PM(Online)
+Participants: ST, TT, BT Students    
+Objectives:  
+Provide participants with an opportunity to enhance their coding and problem-solving skills.
+Foster a spirit of healthy competition to motivate participants to excel in coding challenges.
+Promote community engagement and collaboration through a coding competition.
+ Description: 
+Super AI Community Stakeholder Connect is excited to host a Coding Competition, offering participants a platform to enhance their coding and problem-solving skills. The competition is designed to challenge participants with a series of coding problems that span various difficulty levels, providing a comprehensive learning experience.
+Activity Photo:
+Participation Analysis:
+Feedback Analysis:
+Outcome: 
+Students were able to enhance their problem-solving abilities and cognitive reasoning skills through active participation in the Quiz competition.
+PO Attained: PO1, PO2, PO8, PO9,PO12
+Activity 9: Expert Session on topic of R Programming and Generative AI:Hands-On Workshop on “From Data Science to Creative Intelligence”
+Date – 29th March 2024 and 30th March 2024
+Time – 12:00noon -3:00pm,3:30pm-6:30pm and 12:00pm-4:00pm(Online)
+Speaker: Mr. Yadnesh Mohan Zagade, CEO & Founder, Tech Cryptors, Alumni of Computer Engineering Department
+Participants: ST, TT, BT Students    
+Objectives:  The event aimed to equip students with valuable skills and knowledge in data science and generative AI:
+Provide a foundation in R programming, a popular tool for data analysis across various fields.
+Introduce participants to advanced R techniques used in data science workflows.
+Deepen understanding of generative AI concepts through a workshop featuring real-world case studies.
+Description: 
+Super AI Community Stakeholder Connect is excited to host two-day online event, featuring expert lectures on R Programming and Generative AI, delivered by Mr. Yadnesh Mohan Zagade, CEO & Founder of Tech Cryptors.
+Participation Analysis:
+Day 1:
+Day2:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Participants gained an introduction to R programming and its applications in data analysis.
+The advanced R programming session equipped them with additional skills for data science tasks.
+The generative AI workshop provided insights into this evolving field with practical examples.
+PO Attained:PO1, PO2, PO3, PO4,PO5,PO9,PO10
+Activity 10: Expert Session on Case studies on Cognitive Computing Hybrid Systems in Soft Computing and Linkedin Profile Building
+Date: 5th April 2024 and 6th April 2024
+Time: 2:00pm-5:00pm (Online)
+Speaker: Mr. Salmon Joy, Accennovate Tech Solutions
+Participants:  TT  students   
+Objective:
+The session aimed to:
+Enhance student knowledge and understanding of advanced AI concepts.
+Provide practical insights into the applications of Cognitive Computing and Hybrid Systems through case studies.
+Foster student engagement with the evolving field of AI.
+Description:
+Mr. Joy's session explored the exciting world of AI through real-world applications, focusing on two key areas:
+Case Studies on Cognitive Computing: This segment likely showcased examples of how systems mimic human-like cognitive abilities for tasks like learning, problem-solving, and decision-making.
+Hybrid Systems in Soft Computing: The presentation potentially delved into the concept of combining techniques like fuzzy logic, neural networks, and evolutionary algorithms with traditional computing methods to address complex challenges.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome:
+Participants gained valuable knowledge about the capabilities and applications of AI.
+The session exposed them to real-world examples of Cognitive Computing and Hybrid Systems in action.
+The interactive format (potentially including Q&A or discussions) likely fostered deeper understanding and engagement with the presented topics.
+PO Attained:PO1, PO2, PO3, PO4,PO5,PO9,PO10
+LinkedIn Profile Building
+Date: April 6th, 2024 
+Time:10:00am-2:00pm(Online)
+Speaker: Mr. Madhur Sharma, Founder & CMO, Kalaa Creations   
+Participants: ST, TT and BT students   
+Objectives:  
+The workshop aimed to empower students to develop a strong online presence that enhances their professional brand and career prospects. Participation offered AICTE credits, further incentivizing student participation. 
+Learn strategies for crafting a strong profile that showcases their skills, experience, and career goals.
+Gain insights into optimizing their profile for searchability by potential employers and industry professionals.
+Discover techniques for building a valuable network and connecting with professionals within their field.
+Description: 
+Super AI Stakeholder Connect's workshop led by Mr. Madhur Sharma, equipped participants with the knowledge and skills necessary to build a compelling and effective LinkedIn profile. 
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome:
+Participants acquired valuable skills and knowledge for building a powerful LinkedIn profile that effectively showcases their qualifications. The workshop equipped them with strategies for online networking and professional development through LinkedIn. By attending, students gained an advantage in the job market by creating a strong online presence that attracts potential employers.
+PO Attained:  PO5, PO7, PO8,PO9,PO10,PO12
+Prepared By
+Mrs Shilpa Mathur							 Dr.Megharani Patil
+Faculty Coordinator						             Convener
+Assistant Professor AI&ML                                                                 HOD AI&ML
+--- TEXT FROM A.Y 2023-24 Odd Sem.docx ---
+            Date:08/12/23
+                                                   A.Y 2023-24(Odd Sem)	                                  Report on PSR Activity: Super AI Community Stakeholder Connect
+Objective:
+The objective of Super AI Community Stakeholder Connect is to build students’ knowledge, skill and strengthen the domain by inclusion of Industry/ Academia /Alumni expert sessions/Peers Learning sessions, competitions, exhibitions and collaborative research activities.
+Following activities are done during Academic Year 2023-24 Odd Semester:
+Activity 1: Peer to Peer learning workshop
+Date: 20th July, 2023.
+Time: 10:00 am to 4:00 pm
+Participants: ST, TT and BT students   
+Objectives:  
+Enhance participant skills in Mathematics & Python fundamentals, Hands-on ML model making, and Business Analytics tools.
+Facilitate peer-to-peer learning for practical application of AI concepts.
+Provide a collaborative platform for participants to share knowledge and experiences.
+Description: 
+Super AI Stakeholder Connect's workshop covers Mathematics & Python basics, Hands-on ML model creation, and Business Analytics tools. It fosters practical learning through real-world examples and encourages collaboration among participants for effective knowledge exchange. The interactive sessions aim to equip participants with essential skills in AI and ML.
+Participation Analysis:
+Activity Photo:
+ Feedback Analysis:
+Outcome:
+Participants will gain a solid understanding of Mathematics & Python fundamentals, acquire practical skills in building machine learning models. Participants will be proficient in using business analytics tools for data analysis and decision-making.
+PO Attained: PO1,PO2,PO3,PO4,PO5
+Activity 2: Guidance for Placements and Higher studies
+Date: 24th August, 2023.
+Time: 3:30pm to 4:30pm
+Participants: ST and TT students   
+Objectives:  
+To Gain insights into successful placement strategies from Fourth-Year students who secured positions at Oracle.
+Receive a roadmap for navigating the placement process, encompassing both corporate and startup environments.
+Foster a sense of community engagement by encouraging active participation in the placement guidance session.
+Description: 
+Super AI Stakeholder Connect is organizing a placement guidance session featuring accomplished Fourth-Year students who have secured coveted positions at Oracle. The session will be an opportunity for attendees to glean firsthand insights, strategies, and experiences that contributed to their successful placements. The speakers will provide a comprehensive roadmap for navigating the placement process, offering guidance on interviews and exploration of opportunities in both corporate and startup realms. The event emphasizes community engagement, urging all participants to attend and actively contribute to the collaborative learning environment.
+Participation Analysis:
+Activity Photo: 
+Feedback Analysis:
+Outcome:
+Attendees will be informed about successful placement strategies and experiences.
+Participants will leave with a clear roadmap for navigating the placement process.
+The event will contribute to a sense of community engagement and collaboration.
+PO Attained: PO6, PO8, PO10,PO12
+Activity 3: Expert Lecture on "Tensorflow with MLOPs”
+Date: 13th and 14th September, 2023.
+Time: 2.30 pm onwards
+Participants: ST,TT and BT Students    
+Objectives:  
+Equip students with practical knowledge of Machine Learning Operations (MLOps), focusing on the deployment phase after building machine learning models.
+Provide a hands-on learning experience to enhance participants' understanding of MLOps concepts.
+Offer flexibility by allowing students to use their laptops or providing access to lab PCs for the session.
+Description: 
+Super AI Community Stakeholder Connect is organizing an expert learning session on MLOps, concentrating on the deployment phase following the creation of machine learning models. The session aims to impart practical knowledge and skills in MLOps, covering topics crucial for efficiently deploying and managing machine learning solutions.
+This will be a hands-on session, allowing participants to actively engage with the material. Students have the option to bring their laptops, providing a personalized learning experience, or utilize the lab PCs. The session will cover key aspects of MLOps, ensuring participants gain proficiency in deploying and managing machine learning models in real-world scenarios.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Participants will gain practical knowledge and skills in MLOps, specifically in the deployment phase. The hands-on session will enable participants to apply MLOps concepts in a practical setting. Participants can choose to use their laptops, promoting a personalized and flexible learning environment.
+PO Attained:	PO1,PO2,PO3,PO4,PO9,PO10,PO12
+Activity 4: Workshop on Explainable AI with Industry Case Studies
+Date: 1st & 2nd October, 2023 (Sunday & Monday)
+Time: 11:00 AM - 3:00 PM
+Participants: ST,TT and BT Students    
+Objectives:  
+Foster holistic student development by providing practical skills and insights essential for academic and professional growth.
+Enable participants to acquire hands-on experience and actionable knowledge during the two-day workshop.
+Empower students with valuable insights to navigate their academic and professional journeys effectively.
+Description: 
+Super AI Community Stakeholder Connect is excited to announce a two-day hands-on workshop dedicated to Holistic Student Development. The workshop, conducted by the SuperAI Connect Club, is meticulously designed to provide participants with practical skills and insights crucial for their academic and professional journey.
+During the workshop, participants will engage in valuable sessions aimed at enhancing various aspects of their development. The emphasis will be on hands-on learning, allowing attendees to acquire practical skills that can be directly applied to their academic pursuits and future careers. The SuperAI Connect Club is committed to creating an empowering environment, encouraging participants to take a significant step towards holistic development.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Participants will develop a holistic skill set encompassing both academic and professional aspects. Attendees will gain actionable knowledge that can be immediately applied in their academic and professional endeavours. The workshop aims to empower participants with insights and skills to navigate their educational and professional journeys more effectively.
+PO Attained: PO1,PO2,PO3,PO4,PO9,PO10,PO12
+Activity 5: Offline Coding Competition on HackerRank
+Date - 13th October, 2023
+Time - 2:30 pm onwards
+Participants: ST, TT,BT Students    
+Objectives:  
+Provide participants with an opportunity to enhance their coding and problem-solving skills.
+Foster a spirit of healthy competition to motivate participants to excel in coding challenges.
+Promote community engagement and collaboration through a coding competition.
+ Description: 
+Super AI Community Stakeholder Connect is excited to host a Coding Competition, offering participants a platform to enhance their coding and problem-solving skills. The competition is designed to challenge participants with a series of coding problems that span various difficulty levels, providing a comprehensive learning experience.The competition offers a prize pool of Rs.2500, distributed among the top two winners: 1st place receives Rs.1500, 2nd place receives Rs.1000.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Students were able to enhance their problem-solving abilities and cognitive reasoning skills through active participation in the Quiz competition.
+PO Attained:PO1,PO2,PO3,PO4,PO5,PO8,PO9
+Activity 6: Project Competition
+Date: 30th October 2023
+Time:  4.30 pm onwards
+Participants: ST,TT and BT Students    
+Objectives:  
+Innovative Project Development: Encourage ST, TT, and BT students in the AI&ML Department to showcase their innovative project ideas.
+Foster teamwork by allowing students to participate in teams of 1-4 members.
+Emphasize the practical application of AI and ML concepts through project implementation.
+Description: 
+Super AI Community Stakeholder Connect is hosting a Project Competition open to all ST, TT, and BT students in the AI&ML Department. The competition invites students to form teams of 1-4 members and submit their project ideas using the provided PPT template.
+In Phase 1, students are required to submit their project ideas online by the deadline of 23rd October 2023. The selected teams will proceed to Phase 2, an offline presentation scheduled for 30th October 2023. During Phase 2, ST students will present their project ideas, TT students will showcase at least 30% implementation, and BT students are expected to demonstrate full implementation.
+The competition offers a prize pool of Rs.5000, distributed among the top three winners: 1st place receives Rs.2500, 2nd place receives Rs.1500, and 3rd place receives Rs.1000.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome: 
+Participants will showcase innovative project ideas in the field of AI&ML. The competition promotes teamwork as students collaborate in teams of 1-4 members. Students will gain hands-on experience by implementing their project ideas, aligning with their respective categories.
+PO Attained: PO1,PO2,PO3,PO4,PO5,PO7,PO8,PO9,PO10,PO12
+Prepared By
+Mrs Shilpa Mathur							 Dr.Megharani Patil
+Faculty Coordinator						             Convener
+Assistant Professor AI&ML                                                                   HOD AI&ML
+--- TEXT FROM A.Y 2024-25 Odd Sem.docx ---
+ 	Date:22/10/24
+A.Y 2024-25(Odd Sem) 
+Report on PSR Activity: Super AI Community Stakeholder Connect
+Objective:
+The aim of these activities is to build students’ knowledge in Artificial Intelligence (AI) and Machine Learning (ML) by exposing them to real-world applications in diverse sectors, such as healthcare, finance, and gaming. Through peer learning, expert sessions, and practical workshops, students will enhance their technical and problem-solving skills. These initiatives also focus on career readiness by providing guidance on placements, entrepreneurship, and participation in national-level hackathons, helping students prepare for success in the fast-evolving AI/ML industry.
+Following activities are done during Academic Year 2024-25 Odd Semester:
+Activity 1: Introduction to AI & ML Sectors and Peer Learning Session on Kaggle Platform.
+  Date: 13 July 2024
+Time: 3:00 PM - 6:00 PM
+Speaker: Miss Yesha Raval, BT student, TCET and Mr. Ishaan Gupta, BT student, TCET
+Participants: ST, TT and BT Students
+Objectives:
+To introduce students to the diverse applications of AI & ML across various sectors.
+Equip students with an understanding of how AI & ML technologies are transforming industries.
+Provide hands-on exposure to real-world AI/ML challenges using Kaggle.
+Encourage collaboration and problem-solving through machine learning competitions.
+Inspire students to explore AI/ML career paths and participate actively in related projects.
+Description:
+This session was divided into two parts. The first part introduced students to the significant impact of AI & ML across various sectors, featuring expert speakers who shared real-world use cases from industries such as healthcare, finance, and gaming. Interactive discussions and a Q&A session addressed students' queries about AI career paths and industry trends.
+The second part focused on peer learning through Kaggle, an online platform for data science competitions. Students learned how to select datasets, build models, and submit results. The hands-
+on component encouraged collaboration on beginner-level Kaggle challenges, fostering problem- solving and teamwork while highlighting the importance of such platforms for developing technical skills in real-world AI applications.
+Activity Photo:
+Participation Analysis:
+Introduction to AI & ML Sectors
+Session on Kaggle Platform
+Feedback Analysis:
+Outcome:
+Students were introduced to both theoretical and practical aspects of AI & ML. They gained a better understanding of AI’s impact across multiple sectors and became familiar with Kaggle as a tool for improving their data science and ML skills. Several students expressed interest in pursuing AI/ML certifications and participating in Kaggle competitions. Collaborative efforts in the session led to the formation of study groups focused on upcoming.
+competitions, and many participants began planning their next steps in AI/ML career paths.
+PO Attained: PO2, PO9, PO10
+Activity 2: Aptitude Test - Skill Development.
+Date: 20 July 2024
+Time: 3:00 PM to 5:00 PM
+Participants: ST, TT and BT Students
+Objectives:
+To simulate a competitive exam environment and provide feedback.
+To identify areas of improvement in quantitative, verbal, and logical reasoning.
+To prepare students for upcoming technical and competitive assessments.
+Description:
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare students for real-world exam scenarios. After the test, students were given feedback and strategies for improving their performance in future assessments.
+Activity Photo:
+Participation Analysis:
+Feedback Analysis:
+Outcome:
+The test helped students identify areas for improvement in their aptitude and logical reasoning skills. Feedback was provided, highlighting common mistakes and strategies for better performance. The test also fostered a spirit of healthy competition among peers, motivating students to enhance their problem-solving abilities.
+PO Attained: PO1, PO3, PO5, PO6
+Activity 3: Visit to AR/VR Lab - Gaming Sector.
+Date: 2 August 2024
+Time: 1:00 PM to 3:00 PM
+Participants: ST and TT Students
+Objectives:
+The session aimed to:
+To provide students with hands-on experience in AR/VR technologies used in the gaming sector.
+To demonstrate how AI enhances immersive gaming experiences.
+To encourage students to explore AI applications in AR/VR technologies beyond gaming.
+To inspire students to consider careers in AI-driven gaming technology.
+Description:
+This lab visit focused on how Augmented Reality (AR) and Virtual Reality (VR) are used in the gaming sector. Students were introduced to VR devices and explored real-time rendering techniques that enhance gaming experiences. The session featured a hands-on demonstration of a game built with AR/VR elements, where students could observe the role of AI in simulating dynamic environments. The visit also provided insights into how AR/VR technologies can be applied beyond gaming, in sectors such as education and healthcare.
+Activity Photo:
+Participation Analysis:
+Feedback Analysis:
+Outcome:
+The visit offered students practical exposure to immersive technologies used in game development and simulation. It sparked interest among participants to explore AR/VR-based projects, and many students expressed their eagerness to integrate AI into gaming environments. The lab visits also helped students grasp the potential of AR/VR in industries beyond gaming.
+PO Attained:PO1, PO2, PO3, PO5
+Activity 4: Alumni Session on Placement Guidance
+Date: 3 August 2024
+Time: 10:00 AM to 12:00 PM
+Speakers-Payal Chandak, SDE, Oracle and                  Tanmay Singhania, SDE, Oracle  
+ Participants: ST, TT, BT and Students.
+Objectives:
+To offer students insights and strategies for securing placements in the AI/ML industry.
+To guide students on resume building, interview preparation, and networking.
+To encourage students to leverage internships and projects for career growth.
+To equip students with tools to enhance their professional profiles, including LinkedIn.
+Description:
+The alumni session provided a roadmap for students aiming to secure placements in the AI and ML industry. Alumni shared personal experiences on how to navigate the job market, build a compelling resume, and prepare for technical interviews. The session also covered networking strategies, emphasizing the importance of building a strong professional presence on platforms like LinkedIn.
+Activity Photo:
+Participation Analysis:
+Feedback Analysis:
+Outcome:
+The session offered valuable advice on preparing for placements, including resume building, interview techniques, and networking. Students left with a clear roadmap to secure AI & ML positions and were encouraged to apply the strategies discussed. Several students have started applying these techniques to improve their job prospects and personal branding.
+PO Attained:PO1, PO2, PO4, PO9
+Activity 5: Alumni Session on Guidance for National Level Hackathons.
+Date – 11 August 2024 Time – 6:00PM to 8:00PM
+Speaker- Atharva Tendulkar, Product Manager, NxtWave and Prashant Kapri, Full Stack, Barclays
+Participants: ST, TT and BT Students
+Objectives:
+The session aimed to:
+To motivate students to participate in national-level hackathons.
+To provide guidance on effective problem-solving, teamwork, and time management.
+To showcase tools and platforms commonly used in hackathons.
+To inspire students to use hackathons as a learning opportunity and career accelerator.
+Description:
+This session featured alumni who have successfully participated in national-level hackathons. They provided students with tips on how to approach problem-solving under time constraints, form effective teams, and work collaboratively. Participants were introduced to tools and platforms.
+frequently used in hackathons.
+Activity Photo:
+Participation Analysis:
+Feedback Analysis:
+Outcome:
+Students gained a deeper understanding of how to excel in hackathons and sharpen their problem- solving abilities. Several participants expressed interest in forming hackathon teams and have already begun preparing for upcoming national events. The session also reinforced the importance of team dynamics and innovative thinking during competitions.
+PO Attained:PO1, PO2, PO4, PO9
+Activity 6: Aptitude Test-1 & 2 - Skill Development
+Date: 8 August 2024
+Time: 3:00 PM - 5:00 PM
+Participants: ST, TT and BT Student
+Objective:
+The workshop aimed to:
+To assess students’ progress in analytical thinking and critical thinking skills.
+To provide personalized feedback based on performance metrics.
+To simulate real-world exam scenarios with complex problem-solving questions.
+To emphasize continuous practice and improvement.
+Description:
+This round of aptitude tests was designed to measure students' progress in analytical thinking and reasoning skills. The test featured complex problem-solving questions that required students to apply their knowledge of math, logic, and critical thinking. The assessment was followed by a detailed analysis of performance metrics, with personalized feedback provided to each student.
+Activity Photo:
+Participation Analysis:
+Test-1
+Test-2
+Feedback Analysis:
+Outcomes:
+Students were able to evaluate their progress and work on areas needing improvement. Feedback was given to guide students on specific problem-solving strategies. The test also helped students understand how to approach questions under timed conditions, which is critical for competitive exam success.
+Activity 7: Peer Session on Ethics in AI.
+Date: 20 September 2024 Time: 5:30PM to 6:30 PM
+Speakers – Mr. Akshay Vennikkal, BT student, TCET
+Participants: ST, TT and BT Students
+Objectives:
+To explore the ethical implications of AI in various sectors.
+To raise awareness about bias, privacy, and societal impacts of AI.
+To introduce ethical frameworks such as “AI for Good” and responsible AI practices.
+Description:
+This session explored the ethical implications of AI in various sectors, including healthcare, finance, and law enforcement. Students discussed the potential risks of bias in AI models, privacy concerns, and the societal impact of AI-driven automation. The session also touched on ethical frameworks like AI for Good, encouraging students to consider the long-term consequences of AI deployment.
+Activity Photo:
+Participation Analysis:
+Feedback Analysis:
+Outcome:
+The session sparked discussions on the ethical use of AI and its implications for society. Students showed a deep interest in understanding how ethical frameworks could be integrated into AI development.
+PO Attained: PO1, PO2, PO8, PO9
+Activity 8: Peer Learning Session on MLOps. Date – 20 September 2024
+Time – 12.00 to 6.30PM
+Speaker: Mr. Ankit Mishra, BT student, TCET
+Participants: ST, TT, BT Students
+Objectives:
+To introduce students to MLOps, a methodology that integrates ML with software engineering practices.
+To familiarize students with tools like Kubernetes and Docker for ML model deployment.
+To teach best practices for monitoring, troubleshooting, and maintaining ML models.
+To provide hands-on experience with deploying ML models using MLOps frameworks
+Description:
+This peer-led session introduced MLOps as a methodology that integrates machine learning with software engineering practices. Students were introduced to tools like Kubernetes and Docker, which are commonly used for deploying and managing machine learning models. The session also covered best practices for monitoring ML models, troubleshooting errors in production, and maintaining model accuracy.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome:
+Students gained insights into how MLOps is used to streamline and manage AI/ML models in production environments. They were introduced to tools and frameworks that simplify ML model deployment. Participants are now more confident in managing AI projects from development to production.
+PO Attained:PO1, PO2, PO3, PO5
+Activity 9: Expert Session on Startups.
+Date – 27 September 2024
+Time: 4.30 PM to 5.30 PM
+Speaker: Mr. Dnyaneshwar Bhabad, Assistant Manager, Deloitte Industry Expert
+Participants: ST, TT and BT Students
+Objective:
+The session aimed to:
+To inspire students to explore entrepreneurship in AI and ML.
+To share insights on building and validating startup ideas.
+To provide practical strategies for securing funding and navigating the tech startup space.
+To equip students with knowledge about the challenges faced by AI startups and how to overcome them.
+Description:
+The expert session was designed to inspire students to explore entrepreneurship in AI and ML. A successful startup founder shared insights into how to develop a startup idea, validate it, and bring it to market. The session covered the importance of building a solid business plan, securing funding, and finding a niche in the competitive AI startup space.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome:
+The session motivated students to explore entrepreneurship opportunities within the AI & ML space. Several students expressed interest in launching their own startups or joining early-stage tech companies.
+PO Attained:PO1, PO2, PO4, PO5
+Activity 10: Application of AI in Agriculture.
+Date: 28 September 2024
+Time: 9:30 AM to 10:30 AM
+Speaker: Dr. Vaishali Nirgude, Assistant Professor in Computer Engineering at TCET.
+Participants: ST and TT students
+Objectives:
+To discuss how AI is transforming agriculture through innovative technologies.
+To introduce students to AI applications like precision farming and crop health monitoring.
+To highlight the potential of AI in addressing food security and sustainability challenges.
+To encourage students to explore AI’s impact on resource optimization in the agriculture sector.
+Description:
+This session highlighted the transformative role AI is playing in agriculture, from precision farming to automated harvesting. The speaker discussed how AI tools like drone-based monitoring, predictive analytics for crop management, and soil health analysis are revolutionizing farming practices.
+Participation Analysis:
+Activity Photo:
+Feedback Analysis:
+Outcome:
+Students were exposed to real-world applications of AI in improving agricultural productivity. The session sparked interest in using AI for sustainable farming practices. Students gained insights into how technology can help tackle some of the biggest challenges in agriculture, such as reducing waste and optimizing resource usage.
+PO Attained: PO5, PO7, PO10
+Activity 11: Real-Time Rendering in Game Engines and ML.
+Date: 29 September 2024
+Time: 6:00 PM to 8:00 PM
+Speaker: Mr. Utkarsh Kulkarni, MSc in CS at Syracuse University, New York; Data Analyst and AI Engineer
+Participants: BT students
+Objectives:
+To explore the integration of AI with real-time rendering techniques in game development.
+To demonstrate how machine learning can enhance rendering performance and game design.
+To introduce students to procedural content generation and adaptive gaming techniques.
+To encourage students to experiment with AI tools and game engines like Unity and Unreal Engine.
+Description:
+This session focused on the integration of AI with real-time rendering techniques in game engines like Unity and Unreal Engine. The speaker demonstrated how machine learning can be used to optimize rendering performance, adjust game difficulty, and generate procedural content. The session also covered how AI-driven tools help create more immersive and interactive gaming experiences.
+Participation Analysis:
+Feedback Analysis:
+Outcome:
+The session provided students with advanced knowledge of AI-driven techniques used in modern game engines. Students learned how machine learning can be used to create adaptive and personalized gaming experiences.
+PO Attained: PO5, PO7, PO10
+Prepared By:
+Mrs. Shilpa Mathur	Dr. Shiwani Gupta
+Faculty Coordinator	Convener
+Assistant Professor AI&ML	HOD AI&ML
+--- TEXT FROM Compliance Report + PO Mapping (22-26).docx ---
+TABLE OF CONTENT
+Maintained By
+Secretary
+Jt. Secretary
+Documentation Associate
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2025-26 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2025-26 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2025-26 (Odd Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2025-26 (Odd Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2024-25 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2024-25 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2024-25 (Odd Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2024-25 (Odd Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2023-24 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2023-24 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2023-24 (Odd Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2023-24 (Odd Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2022-23 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2022-23 (Even Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Compliance Report - A.Y. 2022-23 (Odd Semester)
+PSR Activities SUPERAI Community - Stakeholder Connect
+Activity-wise Program Outcome (PO) Mapping - A.Y. 2022-23 (ODD Semester)
+--- TEXT FROM Peer Learning Session Appreciation 22-26.docx ---
+TABLE OF CONTENT
+TCET/AI&ML   of 2022	Date: 11th October 2022
+A.Y. 2022-23 (Odd Sem)
+Appreciation Letter
+To,
+Jwala Chorasiya,
+TT AI&ML,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer-to-Peer Session on “DSA and Competitive Programming” on 11th October 2022.
+Dear Jwala,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer-to-peer session you conducted on “DSA and Competitive Programming”.
+As a student, your ability to explain complex concepts in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding of this topic. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Megharani Patil
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2022	Date: 28th December 2022
+A.Y. 2022-23 (Odd Sem)
+Appreciation Letter
+To,
+Jwala Chorasiya,
+Student, TT(V Sem),
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer-to-Peer Session on “Career Guidance” on 28th December 2022.
+Dear Jwala,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer-to-peer session you conducted on “Career Guidance”.
+As a student, your ability to share insights in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with solid foundational knowledge. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Megharani Patil
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2023	Date: 20th July 2023
+A.Y. 2023-24
+Appreciation Letter
+To,
+Jwala Chorasiya,
+Student, TT(V Sem),
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer-to-Peer learning workshop on 20th July 2023.
+Dear Jwala,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer-to-peer learning workshop you conducted.
+As a student, your ability to explain concepts in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Megharani Patil
+TCET Super AI
+HOD-AI&ML
+TCET/AI&ML   of 2024	Date: 3rd February 2024
+A.Y. 2023-24
+Appreciation Letter
+To,
+Mr. Rohit Gupta,
+BT AI&ML ,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Session on “Competitive Programming” on 3rd February 2024.
+Dear Mr. Rohit,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer session you conducted on “Competitive Programming”.
+As a student, your ability to explain complex programming concepts in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Megharani Patil
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2024	Date: 13 July 2024
+A.Y. 2024-25
+Appreciation Letter
+To,
+Miss Yesha Raval,
+BT AIML,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Learning Session on “Kaggle Platform” on 13 July 2024.
+Dear Miss Yesha,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer learning session you co-conducted on the “Kaggle Platform”.
+As a student, your ability to explain the platform in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid practical understanding. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2024	Date: 13 July 2024
+A.Y. 2024-25
+Appreciation Letter
+To,
+Mr. Ishaan Gupta,
+BT AI&ML,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Learning Session on “Kaggle Platform” on 13 July 2024.
+Dear Mr. Ishaan,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer learning session you co-conducted on the “Kaggle Platform”.
+As a student, your ability to explain the platform in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid practical understanding. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2024	Date: 20 September 2024
+A.Y. 2024-25 (Odd Sem)
+Appreciation Letter
+To,
+Mr. Akshay Vennikkal,
+BT Student,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Session on “Ethics in AI” on 20 September 2024.
+Dear Mr. Akshay,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer session you conducted on “Ethics in AI”.
+As a student, your ability to explain complex ethical concepts in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding of this transformative topic. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2024	Date: 20 September 2024
+A.Y. 2024-25 (Odd Sem)
+Appreciation Letter
+To,
+Mr. Ankit Mishra,
+BT Student,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Learning Session on MLOps on 20 September 2024.
+Dear Mr. Ankit,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer learning session you conducted on MLOps.
+As a student, your ability to explain complex operational concepts in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2025	Date: 19 January 2025
+A.Y. 2024-25 (Even Sem)
+Appreciation Letter
+To,
+Mr. Akshay Vennikkal,
+BT Student,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Learning Session on “AI and Robotics in Manufacturing” on 19 January 2025.
+Dear Mr. Akshay,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer learning session you conducted on “AI and Robotics in Manufacturing”.
+As a student, your ability to explain complex technical intersections in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2025	Date: 24 August 2025
+A.Y. 2025-26 (Odd Sem)
+Appreciation Letter
+To,
+Mr. Priyanshu Sah,
+Student,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Learning Session on “Blockchain” on 24 August 2025.
+Dear Mr. Priyanshu,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer learning session you co-conducted on “Blockchain”.
+As a student, your ability to explain complex concepts like distributed ledgers and cryptographic principles in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding of this transformative technology. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2025	Date: 24/08/2025
+A.Y. 2025-26 (Odd Sem)
+Appreciation Letter
+To,
+Mr. Aadil Rayeen,
+BT AI&ML,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer-to-Peer Session on "Introduction to Blockchain" on 24th August 2025.
+Dear Mr. Aadil,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer-to-peer session you conducted on "Introduction to Blockchain."
+As a final-year student, your ability to explain complex concepts like distributed ledgers, smart contracts, and cryptographic principles in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding of this transformative technology. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your final year and future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML   of 2026	Date: 26th January 2026
+A.Y. 2025-26 (Even Sem)
+Appreciation Letter
+To,
+Mr. Abhilash Tripathi,
+ML Engineer,
+Ceryle Innovative Technologies.
+Subject: Appreciation for Conducting a Peer Learning Session on “AI for Cybersecurity & Threat Detection” on 26th January 2026.
+Dear Mr. Abhilash,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative learning session you conducted on “AI for Cybersecurity & Threat Detection”.
+As an industry professional, your ability to explain complex technical and security concepts in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for our students, providing them with a solid foundational understanding of this critical industry application. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly grateful to have professionals like you who take the time to share their knowledge and mentor students. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+TCET/AI&ML  of 2026	Date: 22nd February 2026
+A.Y. 2025-26 (Even Sem)
+Appreciation Letter
+To,
+Mr. Aadil Rayeen,
+Student,
+Thakur College of Engineering and Technology.
+Subject: Appreciation for Conducting a Peer Learning Session on “Data Analytics & AI in Healthcare” on 22nd February 2026.
+Dear Mr. Aadil,
+On behalf of all the attendees and the Super AI PSR Committee, I would like to extend our sincere appreciation for the fantastic and informative peer learning session you conducted on “Data Analytics & AI in Healthcare”.
+As a student, your ability to explain complex analytical frameworks in such a clear and relatable manner was truly impressive. The session was incredibly beneficial for your peers, providing them with a solid foundational understanding of this transformative industry intersection. Your passion for the subject was evident and made the session highly engaging.
+We are incredibly proud to have students like you who take the initiative to share their knowledge and mentor their juniors and peers. Your effort in preparing and delivering this session is highly commendable.
+Thank you once again for your valuable contribution to our learning community. We wish you all the very best in your future endeavors.
+Best regards,
+Dr. Shiwani Gupta,
+TCET SUPER-AI,
+HOD-AI&ML.
+--- TEXT FROM Peer_Learning_Sessions_Invitations.docx ---
+TABLE OF CONTENT
+A.Y 2022-23(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: DSA and Competitive Programming
+To,
+Jwala Chorasiya
+Student, TT(V Sem)
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'DSA and Competitive Programming'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'DSA and Competitive Programming' is scheduled to take place on 11th October 2022 from 2:30 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2022-23(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Career Guidance
+To,
+Jwala Chorasiya
+Student, TT(V Sem)
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Career Guidance'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Career Guidance' is scheduled to take place on 28th December 2022 from 4:30 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2023-24(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Peer to Peer learning workshop
+To,
+Jwala Chorasiya
+Student, TT(V Sem)
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Peer to Peer learning workshop'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Peer to Peer learning workshop' is scheduled to take place on 20th July 2023 from 10:00 AM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2023-24(Even Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Competitive Programming
+To,
+Mr. Rohit Gupta
+BT AI&ML Student
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Competitive Programming'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Competitive Programming' is scheduled to take place on 3rd February 2024 from 5:00 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2024-25(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Kaggle Platform
+To,
+Miss Yesha Raval 
+BT Students, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Kaggle Platform'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Kaggle Platform' is scheduled to take place on 13th July 2024 from 3:00 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2024-25(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Kaggle Platform
+To,
+Mr. Ishaan Gupta  
+BT Students, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Kaggle Platform'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Kaggle Platform' is scheduled to take place on 13th July 2024 from 3:00 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2024-25(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Ethics in AI
+To,
+Mr. Akshay Vennikkal
+BT Student, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Ethics in AI'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Ethics in AI' is scheduled to take place on 20th September 2024 from 5:30 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2024-25(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: MLOps
+To,
+Mr. Ankit Mishra
+BT Student, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'MLOps'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'MLOps' is scheduled to take place on 20th September 2024 from 12:00 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2024-25(Even Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: AI and Robotics in Manufacturing
+To,
+Mr. Akshay Vennikkal
+BT Student, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'AI and Robotics in Manufacturing'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'AI and Robotics in Manufacturing' is scheduled to take place on 19th January 2025 from 10:00 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2025-26(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Blockchain
+To,
+Priyanshu Sah
+Students, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Blockchain'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Blockchain' is scheduled to take place on 24th August 2025 from 1:00 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2025-26(Odd Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Blockchain
+To,
+Aadil Rayeen 
+Students, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Blockchain'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Blockchain' is scheduled to take place on 24th August 2025 from 1:00 PM onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2025-26(Even Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: AI for Cybersecurity & Threat Detection
+To,
+Abhilash Tripathi
+ML Engineer at Ceryle Innovative Technologies
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'AI for Cybersecurity & Threat Detection'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'AI for Cybersecurity & Threat Detection' is scheduled to take place on 26th January 2026 from 4:00 PM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+A.Y 2025-26(Even Sem)
+Invitation Letter
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Data Analytics & AI in Healthcare
+To,
+Aadil Rayeen
+Student, TCET
+TCET, Mumbai
+Subject: Invitation as Speaker for Peer-to-Peer Learning Session on 'Data Analytics & AI in Healthcare'
+Respected Sir/Madam,
+The Department of Artificial Intelligence & Machine Learning (AIML) at TCET cordially invites you to serve as the Keynote Speaker for an upcoming peer-to-peer learning session under the 'Super AI Community Stakeholder Connect' initiative.
+The session on 'Data Analytics & AI in Healthcare' is scheduled to take place on 22nd February 2026 from 11:00 AM onwards onwards. The objective of this interactive session is to provide practical knowledge, hands-on insights, and domain expertise to our students.
+Your expertise in this domain will be immensely valuable to our students. We kindly request you to accept our invitation and grace the session with your presence.
+Thanking you,
+Yours sincerely,
+--- TEXT FROM Peer_Learning_Sessions_Notices.docx ---
+TABLE OF CONTENT
+A.Y 2022-23(Odd Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: DSA and Competitive Programming
+To,
+All ST/TT Students (AIML Department)
+All above students are hereby informed that on 11th October 2022, 2:30 PM onwards there will be a session on DSA and Competitive Programming where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+TT Student: Jwala Chorasiya
+Designation: Student, TT(V Sem)
+A.Y 2022-23(Odd Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Career Guidance
+To,
+All FT Students (AIML Department)
+All above students are hereby informed that on 28th December 2022, 4:30 PM onwards there will be a session on Career Guidance where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+TT Student: Jwala Chorasiya
+Designation: Student, TT(V Sem)
+A.Y 2023-24(Odd Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Peer to Peer learning workshop
+To,
+All ST/TT/BT Students (AIML Department)
+All above students are hereby informed that on 20th July 2023, 10:00 AM onwards there will be a session on Peer to Peer learning workshop where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+TT Student: Jwala Chorasiya
+Designation: Student, TT(V Sem)
+A.Y 2023-24(Even Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Competitive Programming
+To,
+All ST/TT/BT Students (AIML Department)
+All above students are hereby informed that on 3rd February 2024, 5:00 PM onwards there will be a session on Competitive Programming where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+BT Student: Mr. Rohit Gupta
+Designation: BT AI&ML Student
+A.Y 2024-25(Odd Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Kaggle Platform
+To,
+All ST/TT/BT Students (AIML Department)
+All above students are hereby informed that on 13th July 2024, 3:00 PM onwards there will be a session on Kaggle Platform where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+BT Students: Miss Yesha Raval & Mr. Ishaan Gupta
+Designation: BT Students, TCET
+A.Y 2024-25(Odd Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Ethics in AI
+To,
+All ST/TT/BT Students (AIML Department)
+All above students are hereby informed that on 20th September 2024, 5:30 PM onwards there will be a session on Ethics in AI where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+BT Student: Mr. Akshay Vennikkal
+Designation: BT Student, TCET
+A.Y 2024-25(Odd Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: MLOps
+To,
+All ST/TT/BT Students (AIML Department)
+All above students are hereby informed that on 20th September 2024, 12:00 PM onwards there will be a session on MLOps where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+BT Student: Mr. Ankit Mishra
+Designation: BT Student, TCET
+A.Y 2024-25(Even Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: AI and Robotics in Manufacturing
+To,
+All ST Students (AIML Department)
+All above students are hereby informed that on 19th January 2025, 10:00 PM onwards there will be a session on AI and Robotics in Manufacturing where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+BT Student: Mr. Akshay Vennikkal
+Designation: BT Student, TCET
+A.Y 2025-26(Odd Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Blockchain
+To,
+All ST/TT Students (AIML Department)
+All above students are hereby informed that on 24th August 2025, 1:00 PM onwards there will be a session on Blockchain where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+Students: Priyanshu Sah & Aadil Rayeen
+Designation: Students, TCET
+A.Y 2025-26(Even Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: AI for Cybersecurity & Threat Detection
+To,
+All ST/TT Students (AIML Department)
+All above students are hereby informed that on 26th January 2026, 4:00 PM onwards there will be a session on AI for Cybersecurity & Threat Detection where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+ML Engineer: Abhilash Tripathi
+Designation: ML Engineer at Ceryle Innovative Technologies
+A.Y 2025-26(Even Sem)
+Notice
+PSR: Super AI Community Stakeholder Connect
+Activity: Peer to peer learning session
+Topic: Data Analytics & AI in Healthcare
+To,
+All ST/TT Students (AIML Department)
+All above students are hereby informed that on 22nd February 2026, 11:00 AM onwards there will be a session on Data Analytics & AI in Healthcare where our speaker will be teaching you key insights and practical concepts regarding the topic.
+It will be a hands on session so the students are requested to carry their laptops if possible and install necessary setup.
+The session will be conducted online / in designated lab.
+Speaker:
+Student: Aadil Rayeen
+Designation: Student, TCET
+--- TEXT FROM A.Y 2024-25 Even Sem.pdf ---
+ 
+A.Y 2024-25(Even Sem) 
+ 
+Report on PSR Activity: Super AI Community Stakeholder Connect 
+ 
+Objective: 
+The aim of these activities is to build students’ knowledge in Artificial Intelligence (AI) and 
+Machine Learning (ML) by exposing them to real-world applications in diverse sectors, such as 
+healthcare, finance, and gaming. Through peer learning, expert sessions, and practical workshops, 
+students will enhance their technical and problem-solving skills. These initiatives also focus on 
+career readiness by providing guidance on placements, entrepreneurship, and participation in 
+national-level hackathons, helping students prepare for success in the fast-evolving AI/ML 
+industry. 
+Following activities are done during Academic Year 2024-25 Even Semester: 
+ 
+ 
+Activity 1: Peer Learning Session on “AI and Robotics in Manufacturing”. 
+Date: 19 Jan 2025 
+Time: 10:00 PM - 11:30 PM 
+Mode: Online 
+Speaker: Akshaya Vennikal (BT AI&ML Student) 
+ 
+Participants: ST Students 
+Objectives: 
+ 
+• 
+To understand the role of AI and robotics in manufacturing processes. 
+• 
+To explore current trends and applications in smart manufacturing. 
+• 
+To introduce key technologies like machine learning, cobots, and automation systems. 
+• 
+To encourage collaborative peer-to-peer learning and discussion. 
+• 
+To inspire interest in AI-driven careers and research in industrial domains. 
+ 
+ 
+Description: 
+This peer learning session focused on “AI and Robotics in Manufacturing” aims to promote 
+awareness and knowledge sharing among students about the integration of cutting-edge 
+technologies in modern industries. Participants engaged in an interactive session covering real- 
+world applications, emerging tools, and the future of intelligent manufacturing. Through 
+discussions, demonstrations, and shared insights, the session created a platform for collaborative 
+exploration of Industry 4.0 concepts. 
+ 
+Activity Photo: 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+71 
+Total: 
+71 
+ 
+ 
+ 
+Outcome: 
+ 
+As a result of the peer learning session on “AI and Robotics in Manufacturing,” students gained a foundational 
+understanding of how artificial intelligence and robotics are transforming modern manufacturing processes. 
+They became familiar with real-world examples and technologies used in smart factories, enhancing their 
+awareness of current industrial trends. The session encouraged active peer interaction and exchange of ideas 
+related to automation and innovation, fostering a collaborative learning environment. 
+ 
+ 
+Activity 2: General Aptitude Test. 
+Date: 23 Feb 2025 
+Time: 5:00 PM to 6:00 PM 
+Mode: Online 
+Participants: ST Students 
+ 
+Objectives: 
+• 
+To assess students’ logical reasoning and problem-solving skills. 
+• 
+To evaluate quantitative and verbal aptitude abilities. 
+• 
+To help students identify their strengths and areas for improvement. 
+• 
+To prepare students for competitive exams and placement processes. 
+• 
+To build confidence through practice in a timed test environment. 
+ 
+ 
+Description: 
+The General Aptitude Test was conducted to assess students' abilities in quantitative reasoning, 
+logical thinking, and verbal skills. The test comprised multiple-choice questions covering topics 
+such as arithmetic, data interpretation, logical puzzles, and English comprehension. Conducted 
+under timed conditions, the activity aimed to simulate real-world exam scenarios often encountered 
+in campus placements and competitive exams. 
+Activity Photo: 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+62 
+Total: 
+62 
+ 
+Feedback Analysis: 
+ 
+ 
+Outcome: 
+Through this activity, students gained insights into their problem-solving approaches and time 
+management skills. The test helped them evaluate their preparedness for aptitude-based assessments 
+commonly used in job recruitment and entrance exams. Many students identified key areas 
+requiring improvement and felt more confident in approaching such tests in the future. 
+ 
+ 
+Activity 3: Expert Session on Medical Image Analysis using Deep Learning. 
+Date: 16th March 2025 
+Time: 12:00 PM to 2:00 PM 
+Mode: Online 
+Speaker: Naeem Sayyad 
+ 
+ 
+Participants: ST Students 
+ 
+Objectives: 
+• 
+To introduce students to the fundamentals of medical image analysis. 
+• 
+To explain how deep learning techniques are applied in medical imaging. 
+• 
+To familiarize participants with real-world healthcare applications using AI. 
+• 
+To provide insights into current research and challenges in the domain. 
+• 
+To inspire students to explore interdisciplinary applications of deep learning. 
+ 
+Description: 
+The expert session on “Medical Image Analysis using Deep Learning” aimed to expose students to the 
+transformative role of AI in the healthcare sector. An industry expert delivered an in-depth talk covering 
+the basics of medical imaging, common datasets, deep learning models like CNNs, and their use in 
+diagnosing diseases through radiology, MRI, and CT scans. The session also addressed current research 
+trends, practical challenges, and ethical considerations in medical AI. 
+ 
+Activity Photo: 
+ 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+45 
+Total: 
+45 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+Outcome: 
+Participants developed a foundational understanding of how deep learning models are used in analyzing 
+medical images. The session enhanced their awareness of real-world applications in disease detection and 
+diagnosis. Students gained exposure to interdisciplinary research combining healthcare and artificial 
+intelligence. It also sparked interest in pursuing projects, internships, or higher studies in medical AI and 
+bioinformatics. 
+ 
+Activity 4: Workshop on IoT-based AI System Development for Smart Space. 
+Date: 16th March 2025 
+Time: 6:00 AM to 8:00 PM 
+Mode: Online 
+Speakers- Amar Singh 
+ 
+Participants: ST Students. 
+ 
+Objectives: 
+• 
+To introduce the concept of smart spaces and their real-world applications. 
+• 
+To explain the integration of IoT and AI technologies in system development. 
+• 
+To provide hands-on experience in building IoT-based AI prototypes. 
+• 
+To enhance understanding of sensor networks, data processing, and automation. 
+• 
+To encourage innovation in smart environments through interdisciplinary learning. 
+Description: 
+ 
+The workshop on “IoT-based AI System Development for Smart Space” provided participants with an 
+overview of how Internet of Things (IoT) devices can work in conjunction with Artificial Intelligence to create 
+intelligent, responsive environments. The session covered the architecture of smart spaces, role of embedded 
+systems, AI-based decision-making, and cloud integration. Participants also engaged in hands-on activities 
+involving sensor data collection, edge computing, and automation logic. 
+Activity Photo: 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+49 
+Total: 
+49 
+Feedback Analysis: 
+ 
+ 
+ 
+ 
+ 
+Outcome: 
+ 
+Participants gained a clear understanding of how IoT and AI technologies can be combined to create smart 
+environments. They learned about various hardware components, communication protocols, and data analysis 
+techniques essential for developing intelligent systems. Through practical exposure, students enhanced their 
+problem-solving and system design skills. The workshop also inspired interest in developing innovative projects 
+related to smart homes, smart cities, and automation. 
+ 
+ 
+Activity 5: Workshop on Beyond the Basics: Exploring the Future of Blockchain & Web3. 
+Date: 22nd March 2025 
+Time: 6:00 PM to 7:30 PM 
+Mode: Online 
+Speaker: Hitansh Gopani 
+Participants: ST Students 
+Objectives: 
+• 
+To deepen students' understanding of blockchain technology beyond foundational concepts. 
+• 
+To explore the emerging trends and future applications of Web3 technologies. 
+• 
+To introduce smart contracts, decentralized applications (dApps), and NFTs. 
+• 
+To provide insights into real-world blockchain use cases in finance, supply chain, and identity 
+management. 
+• 
+To encourage students to explore research, innovation, and career opportunities in the 
+blockchain and Web3 space. 
+ 
+Description: 
+The workshop titled “Beyond the Basics: Exploring the Future of Blockchain & Web3” aimed to 
+take participants beyond introductory blockchain knowledge and immerse them in the evolving 
+landscape of decentralized technologies. Experts discussed advanced concepts including smart 
+contracts, decentralized finance (DeFi), NFTs, and DAO governance models. Attendees explored 
+how Web3 is shaping the future of the internet with more privacy, ownership, and decentralization. 
+Activity Photo: 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+32 
+Total: 
+32 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+Prepared By: 
+ 
+Mrs. Shilpa Mathur 
+Convener 
+Faculty Coordinator 
+Dr. Shiwani Gupta 
+Assistant Professor AI&ML 
+HOD AI&ML 
+--- TEXT FROM A.Y 2025-26 Even Sem.pdf ---
+  
+  
+A.Y 2025-26(Even Sem) 
+Date: 04/05/26 
+Report on PSR Activity: Super AI Community Stakeholder Connect 
+  
+Objective:  
+Designed to equip the next generation of tech professionals, these immersive learning experiences bring 
+together industry mentors and peer-driven collaboration to deepen students' understanding of cutting-
+edge fields such as Agentic AI, blockchain ecosystems, and the ever-evolving landscape of data science. 
+From aptitude-based assessments and hands-on technical workshops to career navigation sessions and 
+real-world tool exposure, every component is thoughtfully curated to sharpen logical thinking, 
+strengthen quantitative reasoning, and build the kind of practical, implementation-ready skills that 
+today's AI and ML-driven industries demand. Far beyond traditional classroom instruction, this 
+initiative bridges the gap between academic foundations and professional expectations, empowering 
+participants to step confidently into roles across research institutions, technology enterprises, and the 
+rapidly expanding frontier of intelligent systems. 
+ 
+Following activities were conducted during Academic Year 2025-26 Even Semester:  
+  
+Activity 1: Aptitude Test 1 - Skill Development.  
+Date: 15 January 2026 
+Time: 5:00 PM to 5:30 PM  
+  
+Participants: ST and TT  Students  
+   
+Objectives:  
+• 
+To simulate a competitive exam environment and provide feedback. 
+• 
+To identify areas of improvement in quantitative, verbal, and logical reasoning. 
+• 
+To prepare students for upcoming technical and competitive assessments. 
+  
+Description:  
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical 
+reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare 
+students for real-world exam scenarios. After the test, students were given feedback and strategies for 
+improving their performance in future assessments.  
+  
+ 
+ 
+ 
+ 
+  
+Activity Photo:  
+  
+  
+  
+  
+Participation Analysis:  
+   
+Sr. No.  
+Class  
+No. of Students  
+1  
+ST  
+43  
+2  
+TT  
+3 
+Total:  
+ 
+46 
+  
+Feedback Analysis:  
+  
+ 
+  
+Outcome:  
+The test helped students identify areas for improvement in their aptitude and logical reasoning skills. 
+Feedback was provided, highlighting common mistakes and strategies for better performance. The 
+test also fostered a spirit of healthy competition among peers, motivating students to enhance their 
+problem-solving abilities.  
+  
+PO Attained: PO2, PO9, PO11  
+  
+Activity 2: Peer Learning Session 1 – AI for Cybersecurity & Threat Detection 
+ 
+Date: 26th January 2026 
+Time: 4:00 PM - 6:00 PM 
+Mode: Online 
+Speaker: Abhilash Tripathi, ML Engineer at Ceryle Innovative Technologies. 
+ 
+Participants: ST and TT Students 
+ 
+Objectives: 
+• 
+To introduce students to the role of AI in modern cybersecurity systems. 
+• 
+To explain threat detection techniques using Machine Learning models. 
+• 
+To promote peer-to-peer learning and collaborative problem-solving. 
+• 
+To encourage students to explore cybersecurity as a career domain. 
+ 
+Description: 
+A peer learning session was conducted on “AI for Cybersecurity & Threat Detection” to provide students 
+with insights into how artificial intelligence is transforming the field of cybersecurity. The session 
+covered key concepts such as anomaly detection, intrusion detection systems, and real-time threat 
+analysis using machine learning algorithms. 
+Students discussed real-world applications where AI helps in identifying suspicious activities, phishing 
+attacks, and malware detection. The interactive nature of the session allowed participants to exchange 
+ideas, ask questions, and gain clarity on complex topics. The session successfully fostered collaborative 
+learning and enhanced students’ understanding of AI-driven security systems. 
+ 
+Activity photo: 
+ 
+  
+ 
+  
+Participation Analysis:  
+  
+Sr. No.  
+Class  
+No. of Students  
+1  
+ST  
+65  
+2  
+TT  
+21  
+Total:  
+ 
+86  
+ 
+ Feedback Analysis:  
+  
+ 
+  
+  
+Outcome: 
+• 
+Students understood how AI is applied in cybersecurity. 
+• 
+Participants gained knowledge of threat detection techniques. 
+• 
+The session improved awareness of cybersecurity career opportunities. 
+ 
+PO Attained: PO1, PO9, PO1 
+ 
+  
+ 
+Activity 3: Aptitude Test 2 - Skill Development.  
+Date: 8 February 2026 
+Time: 05:00 PM to 05:30 PM  
+ 
+Participants: ST, TT Students.  
+  
+Objectives:  
+• 
+To simulate a competitive exam environment and provide feedback 
+• 
+To identify areas of improvement in quantitative, verbal, and logical reasoning. 
+• 
+To prepare students for upcoming technical and competitive assessments. 
+  
+Description:  
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical 
+reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare 
+students for real-world exam scenarios. After the test, students were given feedback and strategies for 
+improving their performance in future assessments.  
+  
+Activity Photo:  
+ 
+ 
+ 
+  
+Participation Analysis:  
+  
+Sr. No.  
+Class  
+No. of Students  
+1  
+ST  
+45 
+2  
+TT  
+1  
+Total:  
+ 
+46  
+  
+Feedback Analysis:  
+ 
+  
+ 
+  
+Outcome:  
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, 
+quantitative aptitude, and verbal ability. It was structured with time constraints to prepare students for 
+real-world exam scenarios. After the test, students were given feedback and strategies for improving 
+their performance in future assessments.  
+  
+PO Attained:PO2, PO9, PO11 
+ 
+ 
+Activity 4: Peer Learning Session 2 – Data Analytics & AI in Healthcare 
+ 
+Date: 22nd February 2026 
+Time: 11:00 A.M. to 01:00 P.M. 
+Mode: Online  
+Speakers: Aadil Rayeen 
+ 
+Objectives: 
+• 
+To explain the importance of data analytics in healthcare. 
+• 
+To introduce AI applications in diagnosis and patient care. 
+• 
+To enhance understanding of real-world AI applications. 
+• 
+To promote collaborative learning among students. 
+ 
+ 
+  
+Description: 
+This peer learning session focused on “Data Analytics & AI in Healthcare,” highlighting how artificial 
+intelligence and data analysis are revolutionizing the healthcare industry. Topics included predictive 
+analytics, disease detection, medical imaging, and patient data management. 
+Students explored how AI models assist doctors in making accurate diagnoses and improving treatment 
+outcomes. Real-life examples such as AI-based cancer detection and wearable health monitoring 
+systems were discussed. The session created an engaging environment where students actively 
+participated and shared knowledge. 
+ 
+Activity Photo:  
+  
+ 
+  
+  
+Participation Analysis:  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr. No.  
+Class  
+No. of Students  
+1  
+ST  
+49 
+2  
+TT  
+11 
+Total:  
+ 
+60 
+  
+Feedback Analysis:  
+  
+ 
+ 
+  
+Outcome: 
+• 
+Improved understanding of AI in healthcare. 
+• 
+Awareness of data-driven decision-making in medical fields. 
+• 
+Increased interest in interdisciplinary applications of AI. 
+ 
+PO Attained: PO3, PO5, PO9 
+ 
+ 
+Activity 5: Aptitude Test 3 - Skill Development.  
+ 
+Date: 21 March 2026 
+Time: 01:00 PM 
+ 
+Participants: ST, TT Students.  
+  
+Objectives:  
+• 
+To simulate a competitive exam environment and provide feedback 
+• 
+To identify areas of improvement in quantitative, verbal, and logical reasoning. 
+• 
+To prepare students for upcoming technical and competitive assessments. 
+  
+ 
+ 
+  
+Description: 
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical 
+reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare 
+students for real-world exam scenarios. After the test, students were given feedback and strategies 
+for improving their performance in future assessments.  
+  
+Activity Photo: 
+  
+ 
+  
+Participation Analysis:  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr. No.  
+Class  
+No. of Students  
+1  
+ST  
+61 
+2  
+TT  
+0 
+Total:  
+ 
+61 
+  
+Feedback Analysis:  
+  
+  
+  
+Outcome:  
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, 
+quantitative aptitude, and verbal ability. It was structured with time constraints to prepare students for 
+real-world exam scenarios. After the test, students were given feedback and strategies for improving 
+their performance in future assessments.  
+ 
+PO Attained:PO2, PO9, PO11  
+ 
+ 
+Activity 6: Career Roadmap Talk – AIML Industry Trends 
+ 
+Date: 4th April 2026 
+Time: 6:00 P.M. - 8:00 P.M. 
+Mode: Online (Microsoft Teams) 
+Speaker: Satyam Rudrakanthwar, AI Solutions Developer at Network Science. 
+ 
+Objectives: 
+• 
+To guide students about career opportunities in AIML. 
+• 
+To explain current industry trends and required skills. 
+• 
+To help students plan their career roadmap effectively. 
+• 
+To motivate students towards continuous learning and upskilling. 
+ 
+  
+Description: 
+A career guidance session was conducted on “AIML Industry Trends” to help students understand the 
+evolving landscape of artificial intelligence and machine learning. The speaker discussed trending 
+technologies such as Generative AI, MLOps, and Data Engineering. 
+The session also covered essential skills like programming, problem-solving, and project development. 
+Students were guided on how to build a strong portfolio, prepare for internships, and stay industry-
+ready. The session was highly interactive, with students asking questions related to career paths and 
+skill development. 
+ 
+Activity photo: 
+ 
+ 
+Participation Analysis:  
+ 
+Sr. No.  
+Class  
+No. of Students  
+1  
+ST  
+37 
+2  
+TT  
+5 
+Total:  
+ 
+42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Feedback Analysis:  
+  
+   
+Outcome: 
+• 
+Students gained clarity about AIML career paths. 
+• 
+Improved awareness of industry-required skills. 
+• 
+Increased motivation for skill development and internships. 
+ 
+PO Attained: PO6, PO11  
+ 
+ 
+Activity 7: CodeHathon 3.0 – AI for Social Good 
+ 
+Date: 
+• 
+Day 1: 9 April 2026 
+• 
+Day 2: 10 April 2026 
+Time: 
+• 
+Day 1: 3:30 PM – 5:30 PM (Online) 
+• 
+Day 2: 1:30 PM – 4:30 PM (Offline) 
+Mode: Hybrid (Online + Offline) 
+Venue: Lab 307, 308 & 309 (Day 2) 
+Organized By: SuperAI in collaboration with ACM SIGAI TCET 
+Participants: ST and TT Students 
+ 
+Objectives: 
+• 
+To enhance students’ problem-solving and coding skills through competitive programming. 
+• 
+To encourage teamwork, creativity, and strategic thinking. 
+• 
+To provide hands-on experience in solving real-world problems using AI concepts. 
+• 
+To foster a competitive and innovative coding environment among students. 
+• 
+To motivate students to participate in technical events and improve their DSA skills. 
+  
+ 
+Description: 
+CodeHathon 3.0, organized by SuperAI in collaboration with ACM SIGAI TCET, was a two-day coding 
+competition designed to test students’ analytical thinking, creativity, and programming skills. 
+Day 1 featured a Brainstorming Game, conducted online, where students participated in 
+interdepartmental teams. This round focused on evaluating participants’ logical thinking, problem-
+solving strategies, and teamwork through engaging and challenging tasks. 
+Day 2 was the Coding Showdown, conducted offline in college labs. Participants competed individually 
+or in teams to solve coding problems based on Data Structures and Algorithms (DSA). The competition 
+tested speed, accuracy, and efficiency in problem-solving under time constraints. 
+The event created a highly competitive and engaging atmosphere, encouraging students to apply their 
+knowledge practically while interacting with peers. The inclusion of rewards, recognition, and AICTE 
+activity points further motivated students to actively participate. 
+ 
+Feedback Analysis: 
+Participants responded positively to the event, appreciating the structured format of combining 
+brainstorming with coding challenges. Students found the competition engaging, challenging, and 
+helpful in improving their problem-solving and programming skills. 
+ 
+Participation Analysis:  
+  
+Online Round: 60(ST&TT) 
+Offline Round: 40(ST&TT) 
+ 
+Activity Photo: 
+ 
+ 
+ 
+ 
+ 
+  
+Outcome: 
+• 
+Students improved their logical thinking and coding efficiency. 
+• 
+Participants gained practical exposure to competitive programming. 
+• 
+The event strengthened teamwork and strategic problem-solving abilities. 
+• 
+Students became more confident in participating in hackathons and coding competitions. 
+• 
+The initiative promoted a culture of innovation and technical excellence within the institution. 
+ 
+PO Attained: 
+PO2, PO3, PO5, PO9, PO11 
+ 
+ 
+  
+ Prepared By:   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Mrs. Shilpa Mathur 
+Faculty Coordinator 
+Assistant Professor AI&ML 
+Dr. Shiwani Gupta 
+Convener  
+HOD AI&ML 
+--- TEXT FROM A.Y 2025-26 Odd Sem.pdf ---
+ 
+ 
+A.Y 2025-26(Odd Sem) 
+Date: 12/12/25 
+Report on PSR Activity: Super AI Community Stakeholder Connect 
+ 
+Objective: 
+The objective of these activities is to strengthen students’ competencies in Artificial Intelligence (AI) 
+and Machine Learning (ML) by offering expert-led sessions on Agentic AI, blockchain applications, 
+evolving roles of data scientists, and placement guidance, along with aptitude tests and hands-on 
+workshops that develop logical reasoning, quantitative skills, and practical implementation abilities. 
+Through this blend of conceptual learning, peer-to-peer interaction, and real-world exposure to tools 
+and technologies, students will enhance their technical proficiency, communication skills, and career 
+readiness for opportunities in industry, research, and emerging AI-driven domains.  
+Following activities are done during Academic Year 2025-26 Odd Semester: 
+ 
+ 
+Activity 1: Aptitude Test 1 - Skill Development. 
+Date: 13 July 2025 
+Time: 5:00 PM to 5:30 PM 
+ 
+Participants: ST and TT  Students 
+ 
+ 
+Objectives: 
+ To simulate a competitive exam environment and provide feedback.
+ To identify areas of improvement in quantitative, verbal, and logical reasoning.
+ To prepare students for upcoming technical and competitive assessments.
+ 
+ 
+Description: 
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical 
+reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare 
+students for real-world exam scenarios. After the test, students were given feedback and strategies 
+for improving their performance in future assessments. 
+ 
+Activity Photo: 
+ 
+ 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+103 
+2 
+TT 
+18 
+Total: 
+121 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+ 
+Outcome: 
+The test helped students identify areas for improvement in their aptitude and logical reasoning skills. 
+Feedback was provided, highlighting common mistakes and strategies for better performance. The 
+test also fostered a spirit of healthy competition among peers, motivating students to enhance their 
+problem-solving abilities. 
+ 
+ 
+ 
+PO Attained: PO2, PO9, PO11 
+ 
+ 
+Activity 2: Session 1 on Agentic AI with CrewAI, LangGraph & LangFuse. 
+Date: 19 July 2025 
+Time: 7:00 PM to 9:00 PM 
+Speakers: Ankit Mishra, Alumni & Industry Expert, ML Engineer Pibit.ai 
+ 
+Participants: ST and TT Students 
+ 
+ 
+Objectives: 
+ 
+The session aimed to: 
+ 
+ Introduce students to advanced concepts in Agentic AI using tools such as CrewAI, 
+LangGraph, and LangFuse.
+ Provide hands-on exposure to designing and deploying AI agents for real-world automation 
+use cases.
+ Encourage collaborative learning, innovative thinking, and networking with peers and industry 
+experts.
+ 
+ Motivate students to explore AI/ML career paths and projects focused on agent-based systems
+ 
+ 
+Description: 
+This online session, held under the Super AI Community Stakeholder Connect initiative, focused 
+on “Agentic AI with CrewAI, LangGraph, and LangFuse – Session 2” and was delivered by an 
+industry expert. The event combined conceptual discussions with live demonstrations, 
+showcasing how agentic workflows are built, orchestrated, and applied in practical scenarios, 
+along with opportunities for idea sharing and community interaction. 
+Activity Photo: 
+ 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+65 
+2 
+TT 
+21 
+Total: 
+86 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+Outcome: 
+Students gained a clear introduction to Agentic AI concepts and workflows using CrewAI and 
+LangGraph, including how agents are structured and orchestrated for practical tasks. The session 
+built foundational confidence in using these tools and sparked interest in further exploring agent-
+based projects and collaborations within the community. 
+ 
+ 
+PO Attained:PO1, PO2, PO5, PO11 
+ 
+ 
+Activity 3: Aptitude Test 2 - Skill Development. 
+Date: 3 August 2025 
+Time: 05:00 AM to 05:30 PM 
+ 
+Participants: ST, TT Students. 
+ 
+ 
+ 
+ 
+ 
+Objectives: 
+ 
+ To simulate a competitive exam environment and provide feedback
+ To identify areas of improvement in quantitative, verbal, and logical reasoning.
+ To prepare students for upcoming technical and competitive assessments.
+ 
+Description: 
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical 
+reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare 
+students for real-world exam scenarios. After the test, students were given feedback and strategies 
+for improving their performance in future assessments. 
+ 
+Activity Photo: 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+65 
+2 
+TT 
+20 
+Total: 
+85 
+ 
+ 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+ 
+ 
+ 
+Outcome: 
+The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on 
+analytical questions that simulate competitive exams. The test covered areas such as logical 
+reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare 
+students for real-world exam scenarios. After the test, students were given feedback and strategies 
+for improving their performance in future assessments. 
+ 
+PO Attained:PO2, PO9, PO11 
+ 
+ 
+ 
+Activity 4: Session 2 on Agentic AI with CrewAI, LangGraph & LangFuse. 
+Date: 10 August 2025 
+Time: 5:00 PM to 7:00 PM 
+Speakers: Ankit Mishra, Alumni & Industry Expert, ML Engineer Pibit.ai 
+ 
+Participants: ST and TT Students 
+Objectives: 
+ 
+The session aimed to: 
+ 
+ To deepen students’ understanding of Agentic AI by extending concepts introduced in Session 
+1 with more advanced use of CrewAI, LangGraph, and LangFuse.
+ To provide focused, hands-on practice in designing, debugging, and refining multi-agent 
+workflows for real-world automation scenarios. 
+Description: 
+This online session, conducted as “Agentic AI with CrewAI, LangGraph, and LangFuse – Session 2,” 
+revisited key ideas from the first session and then moved into advanced patterns such as complex agent  
+ 
+ 
+ 
+ 
+chains, monitoring, and optimization using LangFuse. Through demonstrations, discussions, and Q&A, 
+participants explored richer use cases and learned practical techniques to make agent systems more 
+reliable and scalable. 
+Activity Photo: 
+ 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+49 
+2 
+TT 
+16 
+Total: 
+65 
+ 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+Outcome: 
+ 
+Participants strengthened their conceptual and practical grasp of Agentic AI, gaining the ability to 
+design more sophisticated, end-to-end agent workflows with CrewAI, LangGraph, and LangFuse. 
+The deeper dive encouraged students to plan advanced projects, consider hackathons or research 
+work in agentic systems, and engage more actively with the Super AI community. 
+ 
+ 
+PO Attained:PO1, PO2, PO5, PO11 
+ 
+ 
+Activity 5: Peer-to-Peer Learning session on Blockchain 
+ 
+Date: 24 August 2025 
+Time: 1:00 PM to 2:30 PM 
+   Mode: Online 
+   Speakers: Priyanshu Sah & Aadil Rayeen 
+   Maximum no of participants: 75 Participants 
+ 
+Participants: ST and TT Students 
+Objectives: 
+ To introduce students to the basic concepts of blockchain. 
+ To explain how blockchain improves trust and transparency. 
+ To promote peer-to-peer knowledge sharing on emerging technologies. 
+ 
+To discuss real-life applications of blockchain in different sectors. 
+Description: 
+ 
+An exclusive peer-to-peer learning session was organized to help students understand how blockchain 
+technology is revolutionizing the digital world. The session focused on redefining trust and 
+transparency through decentralized systems that eliminate the need for intermediaries. Participants 
+explored how data stored on a blockchain remains secure, immutable, and verifiable, making it one of 
+the most reliable technologies of the future. 
+During the session, students explained key concepts to each other in a simplified manner, creating an engaging 
+and interactive learning environment. Real-life use cases—such as cryptocurrency transactions, supply-chain 
+tracking, secure digital identities, and transparent record-keeping—were discussed to highlight the practical 
+relevance of blockchain. 
+ 
+ 
+The activity encouraged active participation, collaborative thinking, and knowledge sharing, enabling students to 
+gain clarity about how blockchain works and why it is considered a groundbreaking technology for trust-based 
+systems. This peer learning approach also helped build confidence in communicating technical concepts and 
+enhanced teamwork within the group. 
+Activity Photo: 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+49 
+2 
+TT 
+14 
+Total: 
+63 
+ 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+ 
+ 
+Outcomes : 
+ Participants left with a solid understanding of how blockchain secures transactions, how mining 
+puzzles are generated and solved, and how decentralized ledgers foster digital trust. 
+ Several attendees requested further learning references and appreciated the straightforward, 
+visual explanations. 
+PO Attained:PO1, PO2, PO5, PO8, PO11 
+ 
+Activity 6: Evolving Roles of Data Scientists & ML Engineers in the AI Era 
+ 
+Date: 30th August 2025 
+Time: 10:00 AM - 12:45 PM 
+Mode: Online (Zoom) 
+Speaker: Madhura Raut (Principal Data Scientist, Workday | 9+ yrs ML Experience | 2 U.S. Patents | 
+IEEE Senior Member | KDD 2025 Keynote Speaker) 
+ 
+Participants: ST and TT Students 
+Objectives: 
+ To explain how the roles of Data Scientists and Machine Learning Engineers are changing with 
+the rapid growth of AI. 
+ To highlight new skills, tools, and responsibilities required in modern AI-driven industries. 
+ To make students aware of emerging career opportunities and trends in data and AI fields. 
+ To promote understanding of how automation, generative AI, and advanced analytics are 
+reshaping technical job profiles. 
+ 
+ 
+ 
+Description:  
+A focused knowledge-sharing session was conducted on the topic “Evolving Roles of Data Scientists 
+& ML Engineers in the AI Era.” The session explored how the advancements in artificial intelligence, 
+big data, and automation are transforming traditional job roles. Students learned how Data Scientists are 
+moving beyond data cleaning and analysis towards strategic decision-making, responsible AI 
+development, and domain-focused insights. 
+Similarly, the session highlighted how Machine Learning Engineers are now expected to work on 
+scalable model deployment, MLOps pipelines, continuous monitoring, and integrating generative AI 
+into real-world systems. The discussion covered the growing importance of skills such as cloud 
+computing, prompt engineering, LLM fine-tuning, and ethical AI considerations. 
+Through this interactive session, students gained a deeper understanding of the dynamic nature of AI-
+driven careers and how they can prepare themselves to stay relevant and industry-ready. 
+Activity Photo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+57 
+2 
+TT 
+18 
+Total: 
+75 
+ 
+ 
+Feedback Analysis: 
+ 
+ 
+Outcomes : 
+ Participants gained an understanding of the latest trends and skills needed in AI and ML. 
+ The Q&A session provided practical guidance on interviews, skill development, and industry 
+readiness. 
+ Students showed great interest in further resources, upskilling, and staying linked with the Super 
+AI Club. 
+PO Attained:PO1, PO6, PO11 
+ 
+ 
+Activity 7: An Exclusive session on Capegemini Placement Guidance 
+ 
+Date: 14 September 2025 
+Time: 06:00 PM - 08:00 PM 
+Mode: Online (Zoom) 
+Speaker: Shrikar Gaikar & Drashti Panchal, Alumni and Industry Expert 
+ 
+ 
+ 
+ 
+ 
+Participants: ST and TT Students 
+Objectives: 
+ To provide students with insights into Capgemini’s placement process and recruitment 
+expectations. 
+ To guide students on the skills, preparation strategies, and interview techniques required to crack 
+Capgemini. 
+ To familiarise students with aptitude rounds, group discussions, and technical interview patterns. 
+ To help students understand how to build a strong resume and present themselves effectively 
+during placement. 
+Description : 
+An exclusive session was conducted to guide students on Capgemini’s placement process and the skills 
+needed to succeed in campus recruitment. The speaker explained the complete selection procedure, 
+including the online assessment, communication test, technical rounds, and HR interview. Students 
+were given practical tips on improving aptitude speed, strengthening core technical subjects, and 
+preparing for Capgemini’s unique game-based evaluation. 
+The session also covered resume-building, communication skills, and common mistakes candidates 
+make during interviews. Real examples and experiences were shared to give students a clear idea of 
+what Capgemini looks for in potential hires. The interactive nature of the session allowed students to 
+clarify their doubts and gain confidence in preparing for future placement drives. 
+Activity Photo: 
+ 
+ 
+ 
+ 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+52 
+2 
+TT 
+15 
+Total: 
+67 
+ 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+Outcomes : 
+ Students gained a clear understanding of Capgemini’s placement rounds and evaluation criteria. 
+ Participants learned effective strategies for aptitude preparation, technical interviews, and 
+communication tests. 
+ The session helped students improve their resume-building and interview presentation skills. 
+ 
+Students became more confident and better prepared for upcoming placement drives. 
+PO Attained: PO8, PO9, PO10, PO11 
+ 
+ 
+ 
+Activity 8: Hands-On Workshop on IoT x ML 
+ 
+Date: 09 October 2025 
+Time: 03:15 PM - 05:15 PM 
+Mode: Offline  
+Venue : Lab 307 
+Speaker: Mrs.Poonam Gawade - Founder Tantraniketan 
+ 
+Participants: ST and TT Students 
+Objectives: 
+ To introduce students to the evolution of IoT from IoP (Internet of People) to modern 
+interconnected systems. 
+ To help students understand real-life IoT applications and encourage brainstorming for 
+innovative use cases. 
+ To provide clarity on the IoT implementation flow—from hardware to connectivity to AI/ML 
+integration. 
+ To create awareness about IoT manufacturing challenges in India, including semiconductor 
+issues. 
+ To motivate students toward hands-on learning by offering opportunities for real-world IoT 
+exposure. 
+Description : 
+The session began with an introductory talk by the speaker, Mr. Nitin, who provided a clear overview 
+of the evolution of IoT, starting from the earlier concept of the Internet of People (IoP) to the modern 
+Internet of Things (IoT). He discussed how IoT has grown into a powerful ecosystem connecting 
+devices, data, and intelligence. 
+To engage the audience, he asked students to share real-life IoT applications they were familiar with. 
+This led to active brainstorming, helping students expand their thought process, creativity, and 
+innovative abilities. The speaker further showcased a video demonstrating a highly advanced IoT-
+enabled environment where everything from streetlights to home appliances, refrigerators to doors, and 
+chimneys to room systems operates seamlessly through interconnected smart devices. 
+Mr. Nitin also explained the complete flow of implementing IoT systems, starting from the hardware 
+layer, moving to IoT connectivity, and finally integrating AI/ML models for intelligent automation. 
+He highlighted important insights about IoT manufacturing, comparing the industry landscape of India 
+and China. He also discussed the semiconductor manufacturing challenges in India, the impact of 
+weather conditions on hardware production, and how these issues are addressed by importing 
+semiconductor wafers. 
+ 
+ 
+Towards the end, the speaker invited interested students to visit his office in Malad West for further 
+hands-on learning and deeper discussions. He encouraged small groups of 4–5 students to interact, 
+explore IoT applications, understand integration processes, and gain practical exposure. 
+Activity Photo : 
+ 
+Participation Analysis: 
+ 
+ 
+Sr. No. 
+Class 
+No. of Students 
+1 
+ST 
+21 
+2 
+TT 
+14 
+Total: 
+35 
+ 
+ 
+Feedback Analysis: 
+ 
+ 
+ 
+ 
+Outcomes : 
+ Students gained a clear understanding of how IoT has evolved and where it stands today. 
+ Participants were able to identify and discuss real-world IoT applications, enhancing their 
+creative thinking. 
+ Students understood the complete IoT workflow and how AI/ML adds intelligence to IoT 
+systems. 
+ Participants learned about manufacturing differences between India and China and 
+semiconductor-related challenges. 
+ Students received an opportunity for deeper practical exposure through the speaker’s invitation 
+for further learning. 
+ 
+PO Attained: PO1, PO3, PO4, PO5, PO11 
+ 
+ 
+ 
+ 
+ 
+Prepared By: 
+ 
+Mrs. Shilpa Mathur 
+Convener 
+Faculty Coordinator 
+Dr. Shiwani Gupta 
+Assistant Professor AI&ML 
+HOD AI&ML 

@@ -25,7 +25,7 @@ const eventsData = [
     title: "Aptitude Test 2 & Peer Learning 1",
     desc: "(Python, DBMS, OOP) + Vibe Coding",
     icon: Code,
-    status: 'upcoming'
+    status: 'completed'
   },
   {
     id: 3,
@@ -35,7 +35,7 @@ const eventsData = [
     title: "Alumni Connect",
     desc: "Internship & Higher Studies Guidance",
     icon: Users,
-    status: 'upcoming'
+    status: 'completed'
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ const eventsData = [
     title: "Prompt Engineering Challenge",
     desc: "Test your AI interaction skills.",
     icon: Lightbulb,
-    status: 'upcoming'
+    status: 'completed'
   },
   {
     id: 5,
@@ -55,7 +55,7 @@ const eventsData = [
     title: "Competitive Coding Session",
     desc: "Round 1 of the ultimate coding face-off.",
     icon: Monitor,
-    status: 'upcoming'
+    status: 'completed'
   },
   {
     id: 6,
@@ -159,7 +159,7 @@ export default function EventsSection() {
                     ? 'border-red-500 shadow-[0_0_15px_rgba(239,68,68,0.5)]'
                     : 'border-cyber-blue shadow-[0_0_15px_rgba(0,240,255,0.5)]'
               }`}>
-                <Calendar size={16} className="text-white" />
+                <Calendar size={16} className={evt.status === 'completed' ? "text-green-500" : "text-white"} />
               </div>
 
               {/* Empty Space for opposing side */}

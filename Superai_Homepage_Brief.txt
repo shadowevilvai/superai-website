@@ -1,0 +1,50 @@
+Homepage Execution Brief: Superai Technical Club
+
+Target Audience: Frontend Development & UI Engineering Team
+Objective: Outline the structural hierarchy, component breakdown, and interaction routing for the Superai homepage to guide development execution. Visual styling is left to the engineering and design teams.
+
+--------------------------------------------------
+COMPONENT ARCHITECTURE & ROUTING MAP
+--------------------------------------------------
+
+1. Global Navigation Bar
+- Structural Content: Superai Logo (Brand/Home); Internal Links (Home, About Us, Team, Events, Projects); Primary CTA ("Join Us" or Subscribe).
+- Interaction & Routing: Persistent top-level navigation (sticky/fixed header recommended). Internal links use standard client-side routing.
+
+2. Events Hub
+- Structural Content: 
+  * Upcoming Events (Priority Focus): Display of active events requiring registration.
+  * Past Archive: Timeline or grid of successfully conducted seminars/workshops.
+- Interaction & Routing: 
+  * Upcoming: Entire event card must be clickable. Route directly to the respective Google Form (external link).
+  * Past: Clickable cards route to an internal gallery or summary view.
+
+3. About Us Snapshot
+- Structural Content: Short text abstract defining the club's mission, technical focus, and value proposition.
+- Interaction & Routing: The entire section acts as a clickable container (or contains a prominent "Read More" CTA). MUST open in a new browser tab (target="_blank").
+
+4. Meet the Team Teaser
+- Structural Content: Single, high-quality group committee photograph. Short text overlay (requires CSS background shadow/overlay to ensure text legibility).
+- Interaction & Routing: The entire image/container acts as a trigger. Routes to the internal "/meet-the-team" page in the SAME tab.
+
+5. Innovation & Projects
+- Structural Content: Showcase of active technical builds (e.g., Web platforms, AI chatbots). Brief highlights of the tech stack used (e.g., React, Express, Python).
+- Interaction & Routing: Read-only display or routes to individual project repositories/case study pages.
+
+6. Student Resources
+- Structural Content: Repository of accessible materials: workshop slides, code snippets, algorithm study guides.
+- Interaction & Routing: Direct download links or routes to an internal resource hub. Provides recurring value to visitors.
+
+7. Global Footer
+- Structural Content: Official contact email, physical location. Social media links. Sitemap/Quick Links.
+- Interaction & Routing: Standard footer behavior. Social links open in new tabs.
+
+--------------------------------------------------
+TECHNICAL EXECUTION NOTES
+--------------------------------------------------
+
+- Component Modularity: Build the "Events Hub" and "Projects" sections as reusable components that can ingest data dynamically (e.g., via a CMS or JSON file) so content updates do not require hard-coding new HTML.
+
+- External vs. Internal Links: Pay strict attention to the routing logic above. Google Forms (Events) and the external About Us snapshot must not hijack the user's primary browsing session, whereas internal navigation should feel seamless.
+
+- Accessibility (a11y): Ensure that the CSS shadow effect used on the "Meet the Team" teaser maintains a high contrast ratio for the overlay text. All clickable containers must have appropriate aria-labels for screen readers.

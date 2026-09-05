@@ -1,0 +1,34 @@
+[
+  {
+    "id": "proj-001",
+    "title": "MediScan Deep Learning",
+    "description": "Medical image analysis for early diagnosis using convolutional neural networks.",
+    "techStack": ["Python", "TensorFlow", "OpenCV", "FastAPI"],
+    "link": "#",
+    "image": "PROJ_PLACEHOLDER.JPG"
+  },
+  {
+    "id": "proj-002",
+    "title": "Decentralized AI Network",
+    "description": "A web3 smart contract ecosystem for verifying AI training data integrity.",
+    "techStack": ["Solidity", "React", "Web3.js", "Ethereum"],
+    "link": "#",
+    "image": "PROJ_PLACEHOLDER.JPG"
+  },
+  {
+    "id": "proj-003",
+    "title": "Smart Space IoT",
+    "description": "Connecting AI/ML models with hardware sensors to manage energy efficiency in college labs.",
+    "techStack": ["C++", "MicroPython", "MQTT", "React"],
+    "link": "#",
+    "image": "PROJ_PLACEHOLDER.JPG"
+  },
+  {
+    "id": "proj-004",
+    "title": "Agentic Trading Bot",
+    "description": "Multi-agent framework for analyzing market trends and simulating trades.",
+    "techStack": ["Python", "LangChain", "CrewAI", "Docker"],
+    "link": "#",
+    "image": "PROJ_PLACEHOLDER.JPG"
+  }
+]

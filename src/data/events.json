@@ -1,0 +1,533 @@
+[
+  {
+    "id": "evt-001",
+    "title": "Expert Talk: DataScience To Industry",
+    "date": "07/09/2026",
+    "type": "upcoming",
+    "description": "Bridging the Academic Gap. Expert session on Data Science.",
+    "link": "https://forms.gle/Eewu8oQ3kkMEt5ka7",
+    "image": "/events/event_1.jpg"
+  },
+  {
+    "id": "evt-002",
+    "title": "Peer Learning 2 & Coding Round 2",
+    "date": "13/09/2026",
+    "type": "upcoming",
+    "description": "Agritech & IOT integration with AI.",
+    "link": "https://forms.gle/Eewu8oQ3kkMEt5ka7",
+    "image": "/events/event_3.jpg"
+  },
+  {
+    "id": "evt-past-prompt-eng",
+    "title": "Prompters League",
+    "date": "Recent",
+    "type": "past",
+    "description": "A highly competitive 3-round prompting based challenge with 80+ attendees. Congratulations to our winners, Krish J and Tushar H!",
+    "link": "#",
+    "image": "../assets/events/prompters_league.jpg"
+  },
+  {
+    "id": "evt-past-89",
+    "title": "Career Roadmap Talk \u2013 AIML Industry Trends",
+    "date": "4th April 2026",
+    "type": "past",
+    "description": "A career guidance session was conducted on \u201cAIML Industry Trends\u201d to help students understand the evolving landscape of artificial intelligence and machine learning. The speaker discussed trending technologies such as Generative AI, MLOps, and Data Engineering. The session also covered essential ...",
+    "link": "#",
+    "image": "../assets/events/event_89.jpeg"
+  },
+  {
+    "id": "evt-past-87",
+    "title": "Aptitude Test 3 - Skill Development.",
+    "date": "21 March 2026",
+    "type": "past",
+    "description": "The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare st...",
+    "link": "#",
+    "image": "../assets/events/event_87.png"
+  },
+  {
+    "id": "evt-past-85",
+    "title": "Peer Learning Session 2 \u2013 Data Analytics & AI in Healthcare",
+    "date": "22nd February 2026",
+    "type": "past",
+    "description": "This peer learning session focused on \u201cData Analytics & AI in Healthcare,\u201d highlighting how artificial intelligence and data analysis are revolutionizing the healthcare industry. Topics included predictive analytics, disease detection, medical imaging, and patient data management. Students explor...",
+    "link": "#",
+    "image": "../assets/events/event_85.jpeg"
+  },
+  {
+    "id": "evt-past-83",
+    "title": "Aptitude Test 2 - Skill Development.",
+    "date": "8 February 2026",
+    "type": "past",
+    "description": "The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare st...",
+    "link": "#",
+    "image": "../assets/events/event_83.jpeg"
+  },
+  {
+    "id": "evt-past-81",
+    "title": "Peer Learning Session 1 \u2013 AI for Cybersecurity & Threat Detection",
+    "date": "26th January 2026",
+    "type": "past",
+    "description": "A peer learning session was conducted on \u201cAI for Cybersecurity & Threat Detection\u201d to provide students with insights into how artificial intelligence is transforming the field of cybersecurity. The session covered key concepts such as anomaly detection, intrusion detection systems, and real-time ...",
+    "link": "#",
+    "image": "../assets/events/event_81.jpeg"
+  },
+  {
+    "id": "evt-past-79",
+    "title": "Aptitude Test 1 - Skill Development.",
+    "date": "15 January 2026",
+    "type": "past",
+    "description": "The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare st...",
+    "link": "#",
+    "image": "../assets/events/event_79.jpeg"
+  },
+  {
+    "id": "evt-past-103",
+    "title": "Evolving Roles of Data Scientists & ML Engineers in the AI Era",
+    "date": "30th August 2025",
+    "type": "past",
+    "description": "A focused knowledge-sharing session was conducted on the topic \u201cEvolving Roles of Data Scientists & ML Engineers in the AI Era.\u201d The session explored how the advancements in artificial intelligence, big data, and automation are transforming traditional job roles. Students learned how Data Scienti...",
+    "link": "#",
+    "image": "../assets/events/event_103.jpeg"
+  },
+  {
+    "id": "evt-past-101",
+    "title": "Peer-to-Peer Learning session on Blockchain",
+    "date": "24 August 2025",
+    "type": "past",
+    "description": "An exclusive peer-to-peer learning session was organized to help students understand how blockchain technology is revolutionizing the digital world. The session focused on redefining trust and transparency through decentralized systems that eliminate the need for intermediaries. Participants expl...",
+    "link": "#",
+    "image": "../assets/events/event_101.jpeg"
+  },
+  {
+    "id": "evt-past-99",
+    "title": "Session 2 on Agentic AI with CrewAI, LangGraph & LangFuse.",
+    "date": "10 August 2025",
+    "type": "past",
+    "description": "This online session, conducted as \u201cAgentic AI with CrewAI, LangGraph, and LangFuse \u2013 Session 2,\u201d revisited key ideas from the first session and then moved into advanced patterns such as complex agent chains, monitoring, and optimization using LangFuse. Through demonstrations, discussions, and Q&A...",
+    "link": "#",
+    "image": "../assets/events/event_99.jpeg"
+  },
+  {
+    "id": "evt-past-97",
+    "title": "Aptitude Test 2 - Skill Development.",
+    "date": "3 August 2025",
+    "type": "past",
+    "description": "The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare st...",
+    "link": "#",
+    "image": "../assets/events/event_97.jpeg"
+  },
+  {
+    "id": "evt-past-95",
+    "title": "Session 1 on Agentic AI with CrewAI, LangGraph & LangFuse.",
+    "date": "19 July 2025",
+    "type": "past",
+    "description": "This online session, held under the Super AI Community Stakeholder Connect initiative, focused on \u201cAgentic AI with CrewAI, LangGraph, and LangFuse \u2013 Session 2\u201d and was delivered by an industry expert. The event combined conceptual discussions with live demonstrations, showcasing how agentic workf...",
+    "link": "#",
+    "image": "../assets/events/event_95.jpeg"
+  },
+  {
+    "id": "evt-past-93",
+    "title": "Aptitude Test 1 - Skill Development.",
+    "date": "13 July 2025",
+    "type": "past",
+    "description": "The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare st...",
+    "link": "#",
+    "image": "../assets/events/event_93.jpeg"
+  },
+  {
+    "id": "evt-past-77",
+    "title": "Workshop on Beyond the Basics: Exploring the Future of Blockchain & Web3.",
+    "date": "22nd March 2025",
+    "type": "past",
+    "description": "The workshop titled \u201cBeyond the Basics: Exploring the Future of Blockchain & Web3\u201d aimed to take participants beyond introductory blockchain knowledge and immerse them in the evolving landscape of decentralized technologies. Experts discussed advanced concepts including smart contracts, decentral...",
+    "link": "#",
+    "image": "../assets/events/event_77.jpeg"
+  },
+  {
+    "id": "evt-past-73",
+    "title": "Expert Session on Medical Image Analysis using Deep Learning.",
+    "date": "16th March 2025",
+    "type": "past",
+    "description": "The expert session on \u201cMedical Image Analysis using Deep Learning\u201d aimed to expose students to the transformative role of AI in the healthcare sector. An industry expert delivered an in-depth talk covering the basics of medical imaging, common datasets, deep learning models like CNNs, and their u...",
+    "link": "#",
+    "image": "../assets/events/event_73.jpeg"
+  },
+  {
+    "id": "evt-past-75",
+    "title": "Workshop on IoT-based AI System Development for Smart Space.",
+    "date": "16th March 2025",
+    "type": "past",
+    "description": "The workshop on \u201cIoT-based AI System Development for Smart Space\u201d provided participants with an overview of how Internet of Things (IoT) devices can work in conjunction with Artificial Intelligence to create intelligent, responsive environments. The session covered the architecture of smart space...",
+    "link": "#",
+    "image": "../assets/events/event_75.jpeg"
+  },
+  {
+    "id": "evt-past-71",
+    "title": "General Aptitude Test.",
+    "date": "23 Feb 2025",
+    "type": "past",
+    "description": "The General Aptitude Test was conducted to assess students' abilities in quantitative reasoning, logical thinking, and verbal skills. The test comprised multiple-choice questions covering topics such as arithmetic, data interpretation, logical puzzles, and English comprehension. Conducted under t...",
+    "link": "#",
+    "image": "../assets/events/event_71.jpeg"
+  },
+  {
+    "id": "evt-past-69",
+    "title": "Peer Learning Session on \u201cAI and Robotics in Manufacturing\u201d.",
+    "date": "19 Jan 2025",
+    "type": "past",
+    "description": "This peer learning session focused on \u201cAI and Robotics in Manufacturing\u201d aims to promote awareness and knowledge sharing among students about the integration of cutting-edge technologies in modern industries. Participants engaged in an interactive session covering real- world applications, emergi...",
+    "link": "#",
+    "image": "../assets/events/event_69.jpeg"
+  },
+  {
+    "id": "evt-past-68",
+    "title": "Real-Time Rendering in Game Engines and ML.",
+    "date": "29 September 2024",
+    "type": "past",
+    "description": "This session focused on the integration of AI with real-time rendering techniques in game engines like Unity and Unreal Engine. The speaker demonstrated how machine learning can be used to optimize rendering performance, adjust game difficulty, and generate procedural content. The session also co...",
+    "link": "#",
+    "image": "../assets/events/event_68.jpg"
+  },
+  {
+    "id": "evt-past-66",
+    "title": "Application of AI in Agriculture.",
+    "date": "28 September 2024",
+    "type": "past",
+    "description": "This session highlighted the transformative role AI is playing in agriculture, from precision farming to automated harvesting. The speaker discussed how AI tools like drone-based monitoring, predictive analytics for crop management, and soil health analysis are revolutionizing farming practices.",
+    "link": "#",
+    "image": "../assets/events/event_66.jpg"
+  },
+  {
+    "id": "evt-past-58",
+    "title": "Aptitude Test-1 & 2 - Skill Development",
+    "date": "8 August 2024",
+    "type": "past",
+    "description": "This round of aptitude tests was designed to measure students' progress in analytical thinking and reasoning skills. The test featured complex problem-solving questions that required students to apply their knowledge of math, logic, and critical thinking. The assessment was followed by a detailed...",
+    "link": "#",
+    "image": "../assets/events/event_58.jpg"
+  },
+  {
+    "id": "evt-past-54",
+    "title": "Alumni Session on Placement Guidance",
+    "date": "3 August 2024",
+    "type": "past",
+    "description": "The alumni session provided a roadmap for students aiming to secure placements in the AI and ML industry. Alumni shared personal experiences on how to navigate the job market, build a compelling resume, and prepare for technical interviews. The session also covered networking strategies, emphasiz...",
+    "link": "#",
+    "image": "../assets/events/event_54.jpg"
+  },
+  {
+    "id": "evt-past-52",
+    "title": "Visit to AR/VR Lab - Gaming Sector.",
+    "date": "2 August 2024",
+    "type": "past",
+    "description": "This lab visit focused on how Augmented Reality (AR) and Virtual Reality (VR) are used in the gaming sector. Students were introduced to VR devices and explored real-time rendering techniques that enhance gaming experiences. The session featured a hands-on demonstration of a game built with AR/VR...",
+    "link": "#",
+    "image": "../assets/events/event_52.jpg"
+  },
+  {
+    "id": "evt-past-50",
+    "title": "Aptitude Test - Skill Development.",
+    "date": "20 July 2024",
+    "type": "past",
+    "description": "The aptitude test aimed at assessing students' problem-solving and reasoning skills, focusing on analytical questions that simulate competitive exams. The test covered areas such as logical reasoning, quantitative aptitude, and verbal ability. It was structured with time constraints to prepare st...",
+    "link": "#",
+    "image": "../assets/events/event_50.jpg"
+  },
+  {
+    "id": "evt-past-48",
+    "title": "Introduction to AI & ML Sectors and Peer Learning Session on Kaggle Platform.",
+    "date": "13 July 2024",
+    "type": "past",
+    "description": "This session was divided into two parts. The first part introduced students to the significant impact of AI & ML across various sectors, featuring expert speakers who shared real-world use cases from industries such as healthcare, finance, and gaming. Interactive discussions and a Q&A session add...",
+    "link": "#",
+    "image": "../assets/events/event_48.jpg"
+  },
+  {
+    "id": "evt-past-28",
+    "title": "Expert Session on Major Project",
+    "date": "14th  March 2024",
+    "type": "past",
+    "description": "This offline workshop, organized by Super AI Community Stakeholder Connect, focused on guiding final-year students through the process of drafting a Black Book for their Major Projects. Dr. Megharani Patil, HOD-AI&ML, led the session.",
+    "link": "#",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": "evt-past-21",
+    "title": "Gate Mock Test",
+    "date": "2nd February 2024",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is conducting a Mock Test for all the students who are going to appear for the GATE Examination, Data Science and AI subjects. Everyone is requested to give the exam as a practice, even if they are not appearing for GATE now",
+    "link": "#",
+    "image": "../assets/events/event_21.jpg"
+  },
+  {
+    "id": "evt-past-20",
+    "title": "Expert Session on Sectors Exploration and Multicon Paper Presentation",
+    "date": "January 20,\u00a02024",
+    "type": "past",
+    "description": "Super AI Stakeholder Connect is organizing an online session, offering an orientation for students interested in the diverse applications of Artificial Intelligence and Machine Learning (AI/ML). The session also provides guidance on crafting poster papers for the MulticonW24 conference.",
+    "link": "#",
+    "image": "../assets/events/event_20.png"
+  },
+  {
+    "id": "evt-past-33",
+    "title": "Expert Session on Case studies on Cognitive Computing Hybrid Systems in Soft Computing and Linkedin Profile Building",
+    "date": "5th April 2024 and 6th April 2024",
+    "type": "past",
+    "description": "Mr. Joy's session explored the exciting world of AI through real-world applications, focusing on two key areas: Case Studies on Cognitive Computing:\u00a0This segment likely showcased examples of how systems mimic human-like cognitive abilities for tasks like learning, problem-solving, and decision-ma...",
+    "link": "#",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": "evt-past-60",
+    "title": "Peer Session on Ethics in AI.",
+    "date": "20 September 2024 Time: 5:30PM to 6:30 PM",
+    "type": "past",
+    "description": "This session explored the ethical implications of AI in various sectors, including healthcare, finance, and law enforcement. Students discussed the potential risks of bias in AI models, privacy concerns, and the societal impact of AI-driven automation. The session also touched on ethical framewor...",
+    "link": "#",
+    "image": "../assets/events/event_60.jpg"
+  },
+  {
+    "id": "evt-past-46",
+    "title": "Project Competition",
+    "date": "30th October 2023",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is hosting a Project Competition open to all ST, TT, and BT students in the AI&ML Department. The competition invites students to form teams of 1-4 members and submit their project ideas using the provided PPT template. In Phase 1, students are required to s...",
+    "link": "#",
+    "image": "../assets/events/event_46.png"
+  },
+  {
+    "id": "evt-past-44",
+    "title": "Offline Coding Competition on HackerRank",
+    "date": "13th October, 2023",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is excited to host a Coding Competition, offering participants a platform to enhance their coding and problem-solving skills. The competition is designed to challenge participants with a series of coding problems that span various difficulty levels, providin...",
+    "link": "#",
+    "image": "../assets/events/event_44.png"
+  },
+  {
+    "id": "evt-past-8",
+    "title": "Expert session on emerging tools in AI.",
+    "date": "15/05/2023",
+    "type": "past",
+    "description": "Super AI Stakeholder Connect recently organized an Expert session on emerging tools in AI. The session aimed to provide attendees with valuable insights into the latest advancements in AI technology. Topics covered included BDA-Data Lake and AIP-Mean stack, offering practical knowledge and demons...",
+    "link": "#",
+    "image": "../assets/events/event_8.png"
+  },
+  {
+    "id": "evt-past-7",
+    "title": "Quiz Competition",
+    "date": "20th April, 2023",
+    "type": "past",
+    "description": "The Quiz competition organized by Super AI Stakeholder Connect successfully challenged students' problem-solving abilities and enhanced their analytical capabilities and cognitive reasoning skills. The event, conducted online via Google Form, provided an accessible platform for students to showca...",
+    "link": "#",
+    "image": "../assets/events/event_7.png"
+  },
+  {
+    "id": "evt-past-5",
+    "title": "Ideathon",
+    "date": "23rd March 2023",
+    "type": "past",
+    "description": "Super AI Stakeholder Connect organized an Ideathon for AI&ML students. Participants submitted innovative ideas in a PPT format, showcasing creativity and problem-solving skills. Third-year TT students demonstrated 50% implementation, excluding reuse of previous RBL ideas. Collaboration in teams o...",
+    "link": "#",
+    "image": "../assets/events/event_5.jpg"
+  },
+  {
+    "id": "evt-past-29",
+    "title": "Coding Competition.",
+    "date": "15th March, 2023",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is excited to host a Coding Competition, offering participants a platform to enhance their coding and problem-solving skills. The competition is designed to challenge participants with a series of coding problems that span various difficulty levels, providin...",
+    "link": "#",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": "evt-past-3",
+    "title": "The Art of Time Series Forecasting and Analytics",
+    "date": "9th March, 2023",
+    "type": "past",
+    "description": "Super AI Stakeholder Connect conducted a seminar on \"The Art of Time Series Forecasting and Analytics\" by Hrishikesh Yadav. The seminar aimed to provide valuable insights into time series forecasting and analytics. Participants learned about the fundamentals of time series analysis and were equip...",
+    "link": "#",
+    "image": "../assets/events/event_3.jpg"
+  },
+  {
+    "id": "evt-past-1",
+    "title": "Chatgpt Competition",
+    "date": "16th February 2023",
+    "type": "past",
+    "description": "Super AI Stakeholder Connect conducted a competition on \u201cChatGpt\u201d.In the ChatGPT competition, participants were provided with a set of questions to find out the answers using ChatGPT. The objective was to utilize the capabilities of ChatGPT to retrieve accurate information. Participants delved in...",
+    "link": "#",
+    "image": "../assets/events/event_1.jpg"
+  },
+  {
+    "id": "evt-past-36",
+    "title": "Peer to Peer learning workshop",
+    "date": "20th July, 2023.",
+    "type": "past",
+    "description": "Super AI Stakeholder Connect's workshop covers Mathematics & Python basics, Hands-on ML model creation, and Business Analytics tools. It fosters practical learning through real-world examples and encourages collaboration among participants for effective knowledge exchange. The interactive session...",
+    "link": "#",
+    "image": "../assets/events/event_36.jpg"
+  },
+  {
+    "id": "evt-past-38",
+    "title": "Guidance for Placements and Higher studies",
+    "date": "24th August, 2023.",
+    "type": "past",
+    "description": "Super AI Stakeholder Connect is organizing a placement guidance session featuring accomplished Fourth-Year students who have secured coveted positions at Oracle. The session will be an opportunity for attendees to glean firsthand insights, strategies, and experiences that contributed to their suc...",
+    "link": "#",
+    "image": "../assets/events/event_38.jpg"
+  },
+  {
+    "id": "evt-past-40",
+    "title": "Expert Lecture on \"Tensorflow with MLOPs\u201d",
+    "date": "13th and 14th September, 2023.",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is organizing an expert learning session on MLOps, concentrating on the deployment phase following the creation of machine learning models. The session aims to impart practical knowledge and skills in MLOps, covering topics crucial for efficiently deploying ...",
+    "link": "#",
+    "image": "../assets/events/event_40.jpg"
+  },
+  {
+    "id": "evt-past-42",
+    "title": "Workshop on Explainable AI with Industry Case Studies",
+    "date": "1st & 2nd October, 2023 (Sunday & Monday)",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is excited to announce a two-day hands-on workshop dedicated to Holistic Student Development. The workshop, conducted by the SuperAI Connect Club, is meticulously designed to provide participants with practical skills and insights crucial for their academic ...",
+    "link": "#",
+    "image": "../assets/events/event_42.jpg"
+  },
+  {
+    "id": "evt-past-18",
+    "title": "Peer Learning session on \u201cCareer Guidance\u201d",
+    "date": "28/12/2022",
+    "type": "past",
+    "description": "A Peer learning Session on\u201d Career Guidance\u201d was conducted by Jwala Chorasiya,Student,TT(V Sem) . He guided the students about various career options.",
+    "link": "#",
+    "image": "../assets/events/event_18.png"
+  },
+  {
+    "id": "evt-past-17",
+    "title": "Coding Competition",
+    "date": "12th November 2022",
+    "type": "past",
+    "description": "A Coding competition was organized in online mode. Students were given two hours to solve 4 questions. Questions on following Subject Areas were asked: 1.Array 2.Data Structures 3.Algorithms",
+    "link": "#",
+    "image": "../assets/events/event_17.png"
+  },
+  {
+    "id": "evt-past-15",
+    "title": "Online Session on \u201cPrerequisites to deep learning\u201d by industry expert and alumni of Computer Engineering Department",
+    "date": "29th October, 2022",
+    "type": "past",
+    "description": "A Pre-requisites to deep learning session was organized in online mode, by Mr. Devrath Singh Bisht,Software Engineer at JP Morgan Chase&Co,Alumini of Computer Engineering Department. He taught some basic statistics and fundamentals of Deep learning by referring to some use cases of Deep Learning.",
+    "link": "#",
+    "image": "../assets/events/event_15.png"
+  },
+  {
+    "id": "evt-past-13",
+    "title": "Poster Making Competition of AI&ML Domains",
+    "date": "28th  October 2022",
+    "type": "past",
+    "description": "A Poster Making Competition was organized in online mode. Students were given one week time to create their posters (Digital or Hand-drawn). Student\u2019s intellectual and creative posters showed their level of understanding of the Domain.. Following are the domains given for Poster Making Competitio...",
+    "link": "#",
+    "image": "../assets/events/event_13.jpg"
+  },
+  {
+    "id": "evt-past-11",
+    "title": "Peer Learning session on\u201dDSA and Competitive Programming\u201d",
+    "date": "11th October 2022",
+    "type": "past",
+    "description": "A Peer learning Session on\u201dDSA and Competitive Programming\u201d was conducted by Jwala Chorasiya,Student,TT(V Sem) . He guided the students about various programming platforms such as CodeChef and also gave insights about some important concepts of DSA and how to implement them.",
+    "link": "#",
+    "image": "../assets/events/event_11.jpg"
+  },
+  {
+    "id": "evt-past-10",
+    "title": "Session on Roadmap to Machine Learning",
+    "date": "7th October 2022",
+    "type": "past",
+    "description": "A Session on Roadmap to Machine Learning was conducted by Dr Megharani Patil, I/C HOD AI&ML. Dr Megharani Patil, I/C HOD AI&ML briefed students about the roadmap to Machine Learning, the prerequisites required ,tools and technologies to be learned to become industry ready.",
+    "link": "#",
+    "image": "../assets/events/event_10.png"
+  },
+  {
+    "id": "evt-past-23",
+    "title": "Expert Session on BAI:Intelligent Systems Foundation to recent trends",
+    "date": "TBD",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect conducted an expert session on Basics of Artificial Intelligence presented by Dr.Megharani Patil This session aims to provide participants with a holistic view of Business AI, from its foundational concepts to the latest trends and future prospects, thereby ...",
+    "link": "#",
+    "image": "../assets/events/event_23.jpg"
+  },
+  {
+    "id": "evt-past-24",
+    "title": "Peer Session on Competitive Programming",
+    "date": "TBD",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is conducting a Competitive Programming session to learn more about competitive programming and data structures and algorithms. Providing valuable insights and resources for beginners interested in pursuing competitive programming.",
+    "link": "#",
+    "image": "../assets/events/event_24.png"
+  },
+  {
+    "id": "evt-past-26",
+    "title": "Expert Session On SE(UML)",
+    "date": "TBD",
+    "type": "past",
+    "description": "This online session, organized by Super AI Community Stakeholder Connect, offered an introduction to StarUML, a software application used for creating UML (Unified Modeling Language) diagrams. UML diagrams are a visual representation of software systems, used for designing, documenting, and visua...",
+    "link": "#",
+    "image": "../assets/events/event_26.jpg"
+  },
+  {
+    "id": "evt-past-27",
+    "title": "Expert Session on BAI: Intelligent Agents Applications",
+    "date": "TBD",
+    "type": "past",
+    "description": "This expert session delves into the multifaceted applications of intelligent agents within Business AI (BAI). It illuminates how these agents, powered by advanced technologies like machine learning and natural language processing, revolutionize customer service, sales, operations, finance, and he...",
+    "link": "#",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": "evt-past-31",
+    "title": "Expert Session on topic of R Programming and Generative AI:Hands-On Workshop on \u201cFrom Data Science to Creative Intelligence\u201d",
+    "date": "TBD",
+    "type": "past",
+    "description": "Super AI Community Stakeholder Connect is excited to host two-day online event, featuring expert lectures on R Programming and Generative AI, delivered by Mr. Yadnesh Mohan Zagade, CEO & Founder of Tech Cryptors.",
+    "link": "#",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": "evt-past-56",
+    "title": "Alumni Session on Guidance for National Level Hackathons.",
+    "date": "TBD",
+    "type": "past",
+    "description": "This session featured alumni who have successfully participated in national-level hackathons. They provided students with tips on how to approach problem-solving under time constraints, form effective teams, and work collaboratively. Participants were introduced to tools and platforms. frequently...",
+    "link": "#",
+    "image": "../assets/events/event_56.jpg"
+  },
+  {
+    "id": "evt-past-62",
+    "title": "Peer Learning Session on MLOps. Date \u2013 20 September 2024",
+    "date": "TBD",
+    "type": "past",
+    "description": "This peer-led session introduced MLOps as a methodology that integrates machine learning with software engineering practices. Students were introduced to tools like Kubernetes and Docker, which are commonly used for deploying and managing machine learning models. The session also covered best pra...",
+    "link": "#",
+    "image": "../assets/events/event_62.png"
+  },
+  {
+    "id": "evt-past-64",
+    "title": "Expert Session on Startups.",
+    "date": "TBD",
+    "type": "past",
+    "description": "The expert session was designed to inspire students to explore entrepreneurship in AI and ML. A successful startup founder shared insights into how to develop a startup idea, validate it, and bring it to market. The session covered the importance of building a solid business plan, securing fundin...",
+    "link": "#",
+    "image": "../assets/events/event_64.jpg"
+  },
+  {
+    "id": "evt-past-91",
+    "title": "CodeHathon 3.0 \u2013 AI for Social Good",
+    "date": "",
+    "type": "past",
+    "description": "CodeHathon 3.0, organized by SuperAI in collaboration with ACM SIGAI TCET, was a two-day coding competition designed to test students\u2019 analytical thinking, creativity, and programming skills. Day 1 featured a Brainstorming Game, conducted online, where students participated in interdepartmental t...",
+    "link": "#",
+    "image": "../assets/events/event_91.jpeg"
+  }
+]

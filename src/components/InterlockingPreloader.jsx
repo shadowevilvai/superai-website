@@ -139,9 +139,9 @@ export default function InterlockingPreloader({ onComplete }) {
             <path d="M 5 90 L 5 95 L 10 95" fill="none" stroke="#00f0ff" strokeWidth="0.5" opacity="0.8"/>
             <path d="M 95 90 L 95 95 L 90 95" fill="none" stroke="#00f0ff" strokeWidth="0.5" opacity="0.8"/>
             
-            {/* Radar Rings / Crosshairs */}
-            <circle cx="50" cy="50" r="30" fill="none" stroke="#00f0ff" strokeWidth="0.2" strokeDasharray="2 5" opacity="0.3" />
-            <circle cx="50" cy="50" r="40" fill="none" stroke="#00f0ff" strokeWidth="0.2" strokeDasharray="1 4" opacity="0.15" />
+            {/* Radar Rings / Crosshairs - Hidden on mobile to prevent stretching */}
+            <circle cx="50" cy="50" r="30" fill="none" stroke="#00f0ff" strokeWidth="0.2" strokeDasharray="2 5" opacity="0.3" className="max-md:hidden" />
+            <circle cx="50" cy="50" r="40" fill="none" stroke="#00f0ff" strokeWidth="0.2" strokeDasharray="1 4" opacity="0.15" className="max-md:hidden" />
             
             {/* HUD Scale Lines */}
             <path d="M 50 10 L 50 15" fill="none" stroke="#00f0ff" strokeWidth="0.2" />
@@ -193,18 +193,18 @@ export default function InterlockingPreloader({ onComplete }) {
           </div>
 
           {/* Glowing Vortex behind text */}
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[60vh] h-[60vh] bg-cyber-blue/20 rounded-full blur-[80px]"></div>
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[60vmin] h-[60vmin] bg-cyber-blue/20 rounded-full blur-[80px]"></div>
           
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[35vh] h-[35vh] border-[2px] border-cyber-blue/30 rounded-full shadow-[inset_0_0_40px_rgba(0,240,255,0.3)] animate-[spin_15s_linear_infinite]"></div>
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[35vmin] h-[35vmin] border-[2px] border-cyber-blue/30 rounded-full shadow-[inset_0_0_40px_rgba(0,240,255,0.3)] animate-[spin_15s_linear_infinite]"></div>
           
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[25vh] h-[25vh] border border-cyber-blue/50 rounded-full border-dashed animate-[spin_10s_linear_infinite_reverse]"></div>
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[25vmin] h-[25vmin] border border-cyber-blue/50 rounded-full border-dashed animate-[spin_10s_linear_infinite_reverse]"></div>
           
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[45vh] h-[45vh] border-l-2 border-r-2 border-cyber-blue/40 rounded-full animate-[spin_20s_linear_infinite]"></div>
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[45vmin] h-[45vmin] border-l-2 border-r-2 border-cyber-blue/40 rounded-full animate-[spin_20s_linear_infinite]"></div>
 
           {/* Core Text */}
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center w-full z-20">
-            <h1 className="preloader-title">SUPER AI</h1>
-            <p className="text-cyber-blue font-mono tracking-[0.2em] md:tracking-[0.4em] uppercase text-xs md:text-sm shadow-cyber-blue drop-shadow-[0_0_8px_#00f0ff] bg-black/40 px-4 py-1 rounded border border-cyber-blue/20">
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center w-full z-20 px-4">
+            <h1 className="preloader-title text-center whitespace-nowrap">SUPER AI</h1>
+            <p className="text-cyber-blue font-mono tracking-[0.1em] md:tracking-[0.4em] uppercase text-[9px] md:text-sm shadow-cyber-blue drop-shadow-[0_0_8px_#00f0ff] bg-black/40 px-2 md:px-4 py-1 rounded border border-cyber-blue/20 text-center whitespace-nowrap">
               AIML Club - Thakur College
             </p>
           </div>

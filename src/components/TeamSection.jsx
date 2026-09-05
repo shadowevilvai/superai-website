@@ -69,7 +69,7 @@ const TeamCard = ({ member, color = "cyan" }) => {
   
   return (
     <div className={`relative flex flex-col items-center p-3 pt-4 rounded-2xl transition-all duration-500 group cursor-pointer 
-      border bg-[#0B0F19] w-[130px] sm:w-[140px] md:w-[150px] lg:w-[155px] min-h-[220px] shrink-0
+      border bg-[#0B0F19] w-[145px] sm:w-[160px] md:w-[175px] lg:w-[185px] min-h-[240px] shrink-0
       ${theme.border} ${theme.glow} hover:z-50`}>
       
       {/* Inner Image Card - Pops up out of the main card on hover! */}
@@ -154,7 +154,7 @@ export default function TeamSection() {
   }, []);
 
   return (
-    <section id="team" ref={containerRef} className="w-full py-32 px-4 md:px-6 max-w-[1400px] mx-auto relative min-h-screen flex flex-col items-center overflow-hidden font-inter">
+    <section id="team" ref={containerRef} className="w-full pt-20 pb-16 px-4 md:px-6 max-w-[1400px] mx-auto relative min-h-screen flex flex-col items-center overflow-hidden font-inter">
       
       <div className="text-center mb-16 reveal-node relative z-20">
         <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4 text-white">THE CORE TEAM</h2>

@@ -89,19 +89,25 @@
 
 /* Cyber text styling */
 .preloader-title {
-  font-size: 6rem;
+  font-size: clamp(2.5rem, 13vw, 3.5rem);
   font-weight: 900;
   /* Metallic/glass text effect */
   background: linear-gradient(180deg, #ffffff 0%, #00f0ff 50%, #005f73 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   filter: drop-shadow(0 0 15px rgba(0, 240, 255, 0.8));
-  letter-spacing: 0.15em;
+  letter-spacing: 0.1em;
   margin-bottom: 0.5rem;
   text-transform: uppercase;
 }
 
 @media (min-width: 768px) {
+  .preloader-title {
+    font-size: 6rem;
+  }
+}
+
+@media (min-width: 1024px) {
   .preloader-title {
     font-size: 8rem;
   }
